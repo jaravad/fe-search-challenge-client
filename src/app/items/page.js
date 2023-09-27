@@ -1,6 +1,6 @@
 'use client'
 import { useSearchParams, useRouter } from 'next/navigation'
-import { useState } from 'react'
+import { useState, useEffect } from 'react'
 import {
   Box,
   Button,
@@ -11,52 +11,45 @@ import {
 } from '@mui/material'
 import Grid from '@mui/material/Unstable_Grid2'
 
-import Item from '../components/Item'
+import Item from '../../components/Item'
 
-export default function Home() {
-  const [searchTerm, setSearchTerm] = useState('')
+export default function Items() {
+  const [items, setItems] = useState(null)
+  const [loading, setLoading] = useState(false)
+  const { replace } = useRouter()
 
-  const { push } = useRouter()
+  const searchParams = useSearchParams()
 
-  const handleInputChange = (e) => {
-    const value = e.target.value
-    setSearchTerm(value)
+  const query = searchParams.get('q')
+
+  if (query === null) {
+    return replace('/')
   }
 
-  const handleClick = () => {
-    if (!loading) {
-      push(`/items?q=${searchTerm}`)
+  useEffect(() => {
+    const fetchData = async () => {
+      setLoading(true)
+      const results = await fetch(
+        `${process.env.NEXT_PUBLIC_API_URL}api/items?q=${query}`
+      )
+      const items = await results.json()
+      setItems(items)
+      setLoading(false)
     }
-  }
+    if (query !== null) {
+      fetchData()
+    }
+  }, [query])
 
   return (
     <Container maxWidth="md" sx={{ pt: 4, pb: 6 }}>
       <Typography component="h1" variant="h4" sx={{ mb: 2 }} align="center">
         Especies invasoras de Colombia 🇨🇴
       </Typography>
-      <Grid container spacing={1} alignItems="center" sx={{ mb: 2 }}>
-        <Grid xs={8}>
-          <TextField
-            label="Buscar especie"
-            variant="outlined"
-            size="small"
-            fullWidth
-            autoComplete="off"
-            value={searchTerm}
-            onChange={handleInputChange}
-          />
-        </Grid>
-        <Grid xs={4}>
-          <Button
-            variant="contained"
-            fullWidth
-            disabled={loading}
-            onClick={handleClick}
-          >
-            Buscar
-          </Button>
-        </Grid>
-      </Grid>
+
+      <Typography component="h6" variant="body1" sx={{ mb: 2 }} align="left">
+        Resultados de busqueda para '{query}'
+      </Typography>
 
       {loading ? (
         <Box sx={{ display: 'flex', justifyContent: 'center' }}>
@@ -64,7 +57,7 @@ export default function Home() {
         </Box>
       ) : !items ? null : items.length ? (
         <Grid container spacing={2}>
-          {data.map((item) => {
+          {items.map((item) => {
             return (
               <Grid xs={12} sm={6} md={4} key={item.id}>
                 <Item
