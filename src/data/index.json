@@ -1,0 +1,722 @@
+[
+  {
+    "id": 1,
+    "name": "Acacia negra, gris",
+    "scientificName": "Acacia decurrens Willd",
+    "commonNames": "acacia ceniza, acacia",
+    "impact": "Esta especie forma peri\u00F3dicamente capas de hojarasca en el suelo que detiene o desv\u00EDan procesos sucesionales, inhibiendo la expresi\u00F3n de bancos de semillas y limitando la oferta de recursos, lo que genera una exclusi\u00F3n de la flora y fauna nativa, adem\u00E1s de alteraciones ed\u00E1ficas e hidrol\u00F3gicas que en conjunto no permiten la dinamizaci\u00F3n de los procesos funcionales de los ecosistemas",
+    "manage": "A pesar de que la especie presenta una alta producci\u00F3n de semillas y tasa de germinaci\u00F3n, un alto porcentaje de pl\u00E1ntulas no sobreviven hasta llegar a individuos j\u00F3venes, por lo que se recomiendan intervenciones de control enfocadas en las pl\u00E1ntulas exitosas, con el fin de disminuir costos en los recursos usados para este fin",
+    "riskLevel": 2,
+    "urlImage": "https://apicolombiastorage.blob.core.windows.net/invasivespecies/1- Acacia negra, gris.png"
+  },
+  {
+    "id": 2,
+    "name": "Alfombra de agua",
+    "scientificName": "Azolla filiculoides Lam",
+    "commonNames": "Azola, helecho de agua, lenteja, barbasquillo , terciopelo de agua",
+    "impact": "Esta especie aumenta las enfermedades que se transmiten por el agua y reduce la calidad del agua, ya que altera aspectos como el color, olor, turbidez, niveles de ox\u00EDgeno y sedimentaci\u00F3n; lo que conlleva a la reducci\u00F3n de la biodiversidad acu\u00E1tica y a la perdida de superficies acu\u00E1ticas con fines recreativos como pesca o transporte",
+    "manage": "Primordialmente se recomienda evitar el uso como planta ornamental en estanques y acuarios y no depositar individuos en cuerpos de agua porque cualquier fragmento puede prosperar y generar nuevas invasiones.",
+    "riskLevel": 2,
+    "urlImage": "https://apicolombiastorage.blob.core.windows.net/invasivespecies/2-Alfombra de agua.png"
+  },
+  {
+    "id": 3,
+    "name": "Algod\u00F3n de seda",
+    "scientificName": "Calotropis procera (Aiton) Dryand",
+    "commonNames": "algod\u00F3n extranjero, algod\u00F3n fino, algod\u00F3n lechero, algod\u00F3n, palo de algod\u00F3n, quiebraplatos, lechero, algod\u00F3n andariego, algod\u00F3n chino, algod\u00F3n de Castilla, vejigo, vejig\u00F3n, vagamundo, gallito y g\u00FCevas de perro",
+    "impact": "Este arbusto afecta principalmente los pastizales, siendo una especie dif\u00EDcil de controlar. En el noreste de \u00C1frica se ha reportado la posibilidad de que esta especie cause efectos nocivos o la muerte de ganado ovino y caprino, debido a la presencia de un principio amargo, llamado calotropin, el cual act\u00FAa como un veneno cardiaco",
+    "manage": "C. procera es dif\u00EDcil de erradicar manualmente debido a que sus ra\u00EDces son profundas, sin embargo es el m\u00E9todo m\u00E1s usado, ya que el control qu\u00EDmico de esta especie a\u00FAn se desconoce",
+    "riskLevel": 2,
+    "urlImage": "https://apicolombiastorage.blob.core.windows.net/invasivespecies/3-Algod\u00F3n de seda.png"
+  },
+  {
+    "id": 4,
+    "name": "\u00C1rbol del pan",
+    "scientificName": "Artocarpus altilis (Parkinson ex F.A.Zorn) Fosberg",
+    "commonNames": "pandia\u00F1o, fruta de pan, fruta del pan, frutap\u00E1n, frutepan, fruto del pan, guaip\u00E1n, masa de pan, pan de pobre, pan de todo el a\u00F1o, pan de \u00E1rbol, pan de \u00F1ame, pan del norte, pan del \u00E1rbol, \u00E1rbol del pan de masa, pepaep\u00E1n, pepap\u00E1n, pan, marure, norte, tanta y casta\u00F1a",
+    "impact": "Como A. altilis tolera la sombra puede crecer en sotobosque de bosques nativos y comenzar a competir y desplazar las especies nativas, adem\u00E1s su capacidad de propagarse por semillas o vegetativamente por reto\u00F1os y esquejes le facilita crear masas monoespec\u00EDficas que le dan ventajas en el momento de competir frente a otras especies",
+    "manage": "Estos podr\u00EDan ser potenciales controladores biol\u00F3gicos aunque necesitan ser estudiados porque no hay informaci\u00F3n sobre su comportamiento.",
+    "riskLevel": 1,
+    "urlImage": "https://apicolombiastorage.blob.core.windows.net/invasivespecies/4-\u00C1rbol del pan.png"
+  },
+  {
+    "id": 5,
+    "name": "Bamb\u00FA de la India",
+    "scientificName": "Bambusa vulgaris Schrad.",
+    "commonNames": "bamb\u00FA, guadua amarilla, bamb\u00FA de la india y bamb\u00FA de tallos amarillos ",
+    "impact": " B. vulgaris ocupa grandes extensiones, desplazando la vegetaci\u00F3n nativa por medio de sombra y monopolizando los recursos. La hojarasca producida por esta especie supera la producida por los bosques riparios, alterando el ciclo hidrol\u00F3gico de estas \u00E1reas",
+    "manage": "Se puede realizar un control mec\u00E1nico con maquinaria pesada que realice excavaciones continuas ya que esta especie tiende a rebrotar f\u00E1cilmente, o por lo contrario realizar un control con tala contin\u00FAa para agotar la reserva de alimentos. El pastoreo tambi\u00E9n se puede contemplar como un medio de control pero solo para eliminar rebrotes mas no grandes individuos",
+    "riskLevel": 2,
+    "urlImage": "https://apicolombiastorage.blob.core.windows.net/invasivespecies/5-Bamb\u00FA de la India.png"
+  },
+  {
+    "id": 6,
+    "name": "Bot\u00F3n de oro",
+    "scientificName": "Tithonia diversifolia (Hemsl.) A.Gray",
+    "commonNames": "bot\u00F3n de oro, botondioro, mirasol, margarit\u00F3n, girasol, mano de Dios, yerba de bruja y amarg\u00F3n",
+    "impact": "T. diversifolia es una invasora agresiva en lugares como Nigeria, donde aparece en \u00E1reas agr\u00EDcolas que presentan una pluviosidad promedio de 1000 mm (Ayeni et al. 1997). Convirti\u00E9ndose en un problema para los agricultores ya que deben invertir mucho dinero controlando esta especie que crece en sus campos de cultivo y en las \u00E1reas de pastoreo",
+    "manage": "Cuando hay una baja poblaci\u00F3n de T. diversifolia se puede realizar un control manual, en el cual se debe extraer el individuo completamente ya que pueden haber rebrotes",
+    "riskLevel": 1,
+    "urlImage": "https://apicolombiastorage.blob.core.windows.net/invasivespecies/6-Bot\u00F3n de oro.png"
+  },
+  {
+    "id": 7,
+    "name": "Braquiaria",
+    "scientificName": "Urochloa decumbens (Stapf) R.D. Webster",
+    "commonNames": "brachiaria, pasto braquiaria, braquiaria amarga, pasto amargo, pasto peludo, peludo, braquiaria com\u00FAn, mulato, bracaria y brecharia",
+    "impact": "este pasto presenta sustancias alelop\u00E1ticas que impiden el crecimiento de otras especies, afectando la biodiversidad (Barbossa et al. 2008). Silv\u00E9rio et al. (2013) reporta que B. decumbens domin\u00F3 \u00E1reas de bosque que hab\u00EDan presentado incendios como disturbio, lo que pone en peligro el futuro de los bosques tropicales.",
+    "manage": "Generalmente cuando se va a realizar control qu\u00EDmico a pastos se aplican herbicidas de pre-emergencia para evitar un nuevo crecimiento, herbicidas post-emergencia para destruir la parte a\u00E9rea y las ra\u00EDces de la planta, y a los individuos que sobreviven se les aplica herbicidas un poco m\u00E1s letales como S-metolachlor",
+    "riskLevel": 2,
+    "urlImage": "https://apicolombiastorage.blob.core.windows.net/invasivespecies/7-Braquiaria.png"
+  },
+  {
+    "id": 8,
+    "name": "Buch\u00F3n",
+    "scientificName": "Limnobium laevigatum (Humb. & Bonpl. ex Willd.) Heine",
+    "commonNames": "buch\u00F3n, buch\u00F3n de esponja (Bernal et al. 2014), buch\u00F3n de la sabana",
+    "impact": "L. laevigatum crea una capa densa que altera las propiedades f\u00EDsico-qu\u00EDmicas del agua como la turbidez, los niveles de ox\u00EDgeno y la sedimentaci\u00F3n, lo cual impide la fluidez del agua, causa desplazamiento de especies nativas y perdida de espacios acu\u00E1ticos con fines recreativos, pesqueros o de transporte",
+    "manage": "Langeland et al. (2006) presentan una lista de herbicidas que pueden ser usados para controlar especies invasoras acu\u00E1ticas, en este caso para las especies flotantes similares a la lenteja de agua se recomienda usar Diquat, 2,4-D liquido, Fluridone y Penoxsulam",
+    "riskLevel": 2,
+    "urlImage": "https://apicolombiastorage.blob.core.windows.net/invasivespecies/8-Buch\u00F3n.png"
+  },
+  {
+    "id": 22,
+    "name": "Helecho serrucho",
+    "scientificName": "Nephrolepis cordifolia",
+    "commonNames": "helecho serrucho",
+    "impact": "N. cordifolia presenta un crecimiento agresivo ya que forma grandes masas densas, desplazando la vegetaci\u00F3n nativa",
+    "manage": "se puede realizar un control mec\u00E1nico arrancando manualmente los individuos, pero se debe tener cuidado que no quede ninguna parte de la planta en el suelo ya que la planta puede volver a crecer nuevamente. Se recomienda realizar alg\u00FAn tipo de abono con las hojas. En cuanto al control biol\u00F3gico se aconseja aplicar a las hojas herbicidas que contengan glifosato 2,5% o rociar con metsulfur\u00F3n 2g/1L o de 1g/10 L",
+    "riskLevel": 2,
+    "urlImage": "https://apicolombiastorage.blob.core.windows.net/invasivespecies/22-Helecho serrucho.png"
+  },
+  {
+    "id": 9,
+    "name": "Buch\u00F3n de agua, taruya",
+    "scientificName": "Eichhornia crassipes (Mart.) Solms",
+    "commonNames": "buch\u00F3n, taruya, cebolleta, batata, bora, jacinto de agua, lechuguilla, lirio acu\u00E1tico, oreja de mula, oreja de mulo, orejemula, pato, tap\u00F3n",
+    "impact": "es capaz de cubrir extensas superficies en presas, lagunas y canales, debido a su r\u00E1pido crecimiento vegetativo, impidiendo el libre paso del agua o la navegaci\u00F3n, adem\u00E1s afecta la supervivencia de las plantas y los animales nativos, debido a la reducci\u00F3n de los niveles de ox\u00EDgeno disuelto lo que reduce el ox\u00EDgeno disponible",
+    "manage": "El control con herbicidas ha tenido \u00E9xito contra peque\u00F1as infestaciones accesibles por tierra, aire o barco, pero es relativamente caro, aunque tiene la ventaja de ser r\u00E1pido y temporalmente eficaz (Coetzee et al. 2009). Muchos sitios infestados por E. crassipes son usados como represas de agua potable, o ci\u00E9nagas donde se practica la pesca, por lo que el uso de herbicidas no es muy recomendable ya que puede contaminar y afectar la salud humana y la biota asociada a estos ecosistemas.",
+    "riskLevel": 2,
+    "urlImage": "https://apicolombiastorage.blob.core.windows.net/invasivespecies/9-Buch\u00F3n de agua, taruya.png"
+  },
+  {
+    "id": 10,
+    "name": "Ca\u00F1a de az\u00FAcar",
+    "scientificName": "Saccharum officinarum L",
+    "commonNames": "ca\u00F1a, ca\u00F1a de az\u00FAcar de castilla, ca\u00F1a de az\u00FAcar india, ca\u00F1a de az\u00FAcar calancana, ca\u00F1a de az\u00FAcar cubana, ca\u00F1a de az\u00FAcar chiquita, ca\u00F1a de az\u00FAcar hortaliza, ca\u00F1a de az\u00FAcar pajarita, ca\u00F1a de az\u00FAcar palmira, ca\u00F1a de az\u00FAcar palmire\u00F1a, ca\u00F1a de az\u00FAcar rayada, ca\u00F1a de az\u00FAcar santacruz, ca\u00F1a de batavia, canapoy, entre otros mas.",
+    "impact": "Gordon et al. (2011) quienes aplicaron el \u00EDndice de sistema de evaluaci\u00F3n del riesgo de malezas de Australia (MEF) modificado para Estados Unidos dicen que S.officinarum es una especie que tiene poca probabilidad de volverse una especie invasora. Por otro lado, algunas plantaciones de ca\u00F1a de az\u00FAcar utilizan pr\u00E1cticas como la roza y quema las cuales seg\u00FAn Carrera et al. (2010) traen un grave impacto sobre la calidad del aire.",
+    "manage": "aunque no se cuenta con mucha informaci\u00F3n sobre el control de esta especie, se podr\u00EDa realizar un control mec\u00E1nico y qu\u00EDmico como el de otras ca\u00F1as que tambi\u00E9n son invasoras, el cual puede consistir en un corte continuo del individuo hasta agotar nutrientes, o cortar y aplicar herbicidas como amitrol 2%, Velpar (velpar persiste en el suelo) o glifosato, aunque este \u00FAltimo no es muy eficiente con las ra\u00EDces (Usambara Invasive Plants 2006).",
+    "riskLevel": 1,
+    "urlImage": "https://apicolombiastorage.blob.core.windows.net/invasivespecies/10-Ca\u00F1a de az\u00FAcar.png"
+  },
+  {
+    "id": 11,
+    "name": "Ca\u00F1a brava",
+    "scientificName": "Arundo donax L",
+    "commonNames": "ca\u00F1a, ca\u00F1a com\u00FAn, ca\u00F1a de chipre, ca\u00F1a de huerta, ca\u00F1a de popo, ca\u00F1a de castilla, ca\u00F1a de queco, ca\u00F1a de tierra fr\u00EDa, ca\u00F1abrava de castilla, ca\u00F1apopa, ca\u00F1ote, carrizo, chin, chin de castilla, juco, juinanashujua, lata, lata de castilla, popo, popo de chumbe y tute",
+    "impact": "esta especie altera la hidrolog\u00EDa, causa perdida de biodiversidad y erosiona las orillas de los r\u00EDos; afectando principalmente los recursos de agua para las regiones \u00E1ridas (Moran et al. 2011). Adem\u00E1s, sus ra\u00EDces gruesas son un h\u00E1bitat indicado para la garrapata del ganado (Rhipicephalus microplus) quien es un vector del protozoo que causa la enfermedad bovina \u201CBabesiosis\u201D",
+    "manage": "en cuanto a m\u00E9todos qu\u00EDmicos, se ha usado herbicidas que tienen como principio activo glifosato con efectividad de control hasta del 93%. Como m\u00E9todo f\u00EDsico se ha usado el cubrimiento con materiales oscuros que presentan una eficacia hasta del 100%, si se mantiene sobre el ca\u00F1averal durante dos periodos vegetativos consecutivos; o el m\u00E9todo de inundaci\u00F3n del ca\u00F1averal, el cual provoca la muerte de la planta por anoxia.",
+    "riskLevel": 2,
+    "urlImage": "https://apicolombiastorage.blob.core.windows.net/invasivespecies/11-Ca\u00F1a brava.png"
+  },
+  {
+    "id": 12,
+    "name": "Caracucho",
+    "scientificName": "Impatiens balsamina L.",
+    "commonNames": "caracuchos, caracucha, caracucho blanco y primavera",
+    "impact": "I. balsamina es ampliamente cultivada y usada con fines medicinales que provienen de creencias tradicionales, por ejemplo el tallo y las semillas se usan para promover la circulaci\u00F3n de la sangre y para aliviar el dolor de garganta o las flores y las hojas se utilizan a menudo para colorantes de u\u00F1as. Esto ha impulsado que se realicen varios estudios farmacol\u00F3gicos los cuales reportan que esta especie presenta actividad anti-f\u00FAngica, anti-bacterial, anti-tumoral, anti-pruriginosa y antianafil\u00E1ctico las cuales podr\u00EDan alterar el equilibrio del h\u00E1bitat donde se encuentre",
+    "manage": "el hongos Podosphaera balsaminae parasitan y Plasmopara obducens da\u00F1an las hojas de I. balsamina (EOL 2014), por lo que se podr\u00EDan considerar como posibles agentes controladores.",
+    "riskLevel": 1,
+    "urlImage": "https://apicolombiastorage.blob.core.windows.net/invasivespecies/12-Caracucho.png"
+  },
+  {
+    "id": 13,
+    "name": "Cerrajilla",
+    "scientificName": "Senecio vulgaris L.",
+    "commonNames": "Cerrajilla, yuyito, cardo y flor de paraguas",
+    "impact": "S. vulgaris se dispersa por el viento con gran rapidez, germina con facilidad y presenta alta tolerancia ecol\u00F3gica, por lo que se considera un colonizador de gran \u00E9xito. Tanto que infesta todo tipo de cultivos, incluyendo hierbas, arbustos o \u00E1rboles le\u00F1osos, lo que lo convierte en un problema para la horticultura ya que es un fuerte competidor de nutrientes, presenta sustancias alelop\u00E1ticas para algunas especies y tolera y resiste una amplia gama de herbicidas. Adem\u00E1s este tipo de especies invasoras generalmente sirven de anfitri\u00F3n para una amplia gama de plagas agr\u00EDcolas",
+    "manage": "varios herbicidas comunes como desmedifam, fenmedifam, o triflusulfur\u00F3n son eficientes en diferentes cultivos, sin embargo, la eficacia de los herbicidas depende del tiempo, tasa, m\u00E9todo de aplicaci\u00F3n y la etapa del cultivo, tambi\u00E9n es importante combinar m\u00E9todos de control qu\u00EDmico con los m\u00E9todos culturales y mec\u00E1nicos de control de malezas como rotaci\u00F3n de cultivos",
+    "riskLevel": 1,
+    "urlImage": "https://apicolombiastorage.blob.core.windows.net/invasivespecies/13-Cerrajilla.png"
+  },
+  {
+    "id": 14,
+    "name": "Cola de zorro",
+    "scientificName": "Andropogon bicornis L",
+    "commonNames": "rabo de zorro, cola de zorro, paja de zorro, cola de caballo, cola de vaca, rabo de vaca, cola de venado, rabo de gato, paja montosa, pasto elefante, pasto puntero, puntero, paimbo y paja",
+    "impact": "sirve como refugio para el hem\u00EDptero Tibraca limbativentris, una de las mayores plagas para los cultivos en latino am\u00E9rica, ya que cuando las condiciones ambientales son muy extremas T. limbativentris pasa por estado de diapausa en esta especie (Klein et al. 2012). Se considera como una invasora agresiva, ya que se encuentra en pastizales empobrecidos, bordes de caminos y p\u00E1ramos",
+    "manage": "se ha reportado que los herbicidas fluazifop-butilo [fluazifop], setoxidim y diclofop-metilo [diclofop] controlan esta esp\u00E9cie y A. bicornis pierde cobertura en presencia de fuego, reduciendola hasta un 27% 11 meses despu\u00E9s de la quema (Azevedo et al. 1999, Cardoso et al. 2003). Por lo cual se puede considerar que la quema controlada puede funcionar como m\u00E9todo de control y manejo para esta especie.",
+    "riskLevel": 2,
+    "urlImage": "https://apicolombiastorage.blob.core.windows.net/invasivespecies/14-Cola de zorro.png"
+  },
+  {
+    "id": 35,
+    "name": "Papiro",
+    "scientificName": "Cyperus papyrus L",
+    "commonNames": "papiro enano y minipapiro",
+    "impact": " Hastwel et al. (2008) realizaron un estudio sobre el potencial invasivo de plantas acu\u00E1ticas frente a un alta oferta de nutrientes, donde encontraron que C. papyrus acumula m\u00E1s biomasa que las especies nativas y al parecer puede tener una ventaja frente a otras especies en condiciones bajas de nutrientes ya que mostro una reducci\u00F3n de la superficie fotosint\u00E9tica frente a condiciones altas de nutrientes. Por otro lado van Dam et al. (2011), indican que esta especie absorbe formas inorg\u00E1nicas de nitr\u00F3geno, f\u00F3sforo y otros nutrientes u oligoelementos.",
+    "manage": "Langeland et al. (2006) presentan una lista de herbicidas que pueden ser usados para controlar especies invasoras acu\u00E1ticas, en este caso para las especies emergentes recomiendan usar: 2,4-D granulado, glifosato, imazapir, penoxsulam y imazamox.",
+    "riskLevel": 1,
+    "urlImage": "https://apicolombiastorage.blob.core.windows.net/invasivespecies/35-Papiro.png"
+  },
+  {
+    "id": 15,
+    "name": "Diente de le\u00F3n",
+    "scientificName": "Taraxacum campylodes G.E. Haglund",
+    "commonNames": "diente de le\u00F3n, colmillo de le\u00F3n, achicoria, chicoria, chicoria amarilla y amarg\u00F3n",
+    "impact": "es una especie que se establece f\u00E1cilmente en \u00E1reas antropisadas como parques o pastizales de recreaci\u00F3n como canchas deportivas, convirti\u00E9ndose en un problema para las entidades municipales o due\u00F1os de dichas \u00E1reas ya que gastan cantidades considerables de plaguicidas en su control. Tambi\u00E9n se establece en cultivos de especies herb\u00E1ceas siendo una fuerte competidora en cuanto a nutrientes, agua e insectos polinizadores, adem\u00E1s esta especie act\u00FAa como hu\u00E9sped para pat\u00F3geno.",
+    "manage": "el control mec\u00E1nico es poco eficaz debido a que la planta responde positivamente al corte repetido y al pastoreo, ya que las ra\u00EDces y las hojas rebrotan con gran facilidad. Por esto el control qu\u00EDmico ha resultado ser el m\u00E1s efectivo, con los herbicidas 2,4-D (\u00E1cido 2,4 - diclorofenoxiac\u00E9tico) y 2,4 -D mezclas con dicamba (\u00E1cido 3,6 -dicloro- 2 - metoxibenzoico), mecoprop (2- (4 -cloro- 2 - metilfenoxi) propi\u00F3nico), o MCPA (4- \u00E1cido cloro- 2 - metilfenoxiac\u00E9tico).",
+    "riskLevel": 2,
+    "urlImage": "https://apicolombiastorage.blob.core.windows.net/invasivespecies/15-Diente de le\u00F3n.png"
+  },
+  {
+    "id": 16,
+    "name": "Elodea",
+    "scientificName": "Egeria densa Planch.",
+    "commonNames": "elodea.",
+    "impact": "esta especie forma un colch\u00F3n denso en el agua, el cual cambia las caracter\u00EDsticas del lugar, debido a que retiene altas cantidades de ox\u00EDgeno he impide la entrada de luz; desplazando especies nativas y afectando la hidrolog\u00EDa del lugar. Lo que finalmente perjudica actividades como pesca, navegaci\u00F3n o producci\u00F3n de energ\u00EDa hidroel\u00E9ctrica",
+    "manage": "su control es limitado, principalmente el control mec\u00E1nico debido a que este contribuye a la reproducci\u00F3n vegetativa por fragmentaci\u00F3n de E. densa. En cuanto al control qu\u00EDmico, se recomienda usar el herbicida diquat, aunque usar qu\u00EDmicos en cuerpos de agua tiene muchos riesgos de causar da\u00F1os ambientales.",
+    "riskLevel": 2,
+    "urlImage": "https://apicolombiastorage.blob.core.windows.net/invasivespecies/16-Elodea.png"
+  },
+  {
+    "id": 17,
+    "name": "Enea, junco",
+    "scientificName": "Typha angustifolia L",
+    "commonNames": "espada\u00F1a, enea, nea, junca, junco, junco de estera, totora y ca\u00F1a de la pasi\u00F3n",
+    "impact": "es una especie con sistema radicular grueso y subterr\u00E1neo que forma densas alfombras junto con la hojarasca, alterando el h\u00E1bitat y ocasionando impactos negativos en la diversidad (Pinz\u00F3n et al. 2012, GISD 2014, CABI 2014). Su capacidad de expansi\u00F3n desplaza a las especies nativas, adem\u00E1s de producir sustancias alelop\u00E1ticas que impiden el crecimiento y establecimiento de otras especies. La abundancia de T. angustifolia puede alterar los cursos de agua, ahog",
+    "manage": "para esta planta acu\u00E1tica la eliminaci\u00F3n mec\u00E1nica es la m\u00E1s complicada debido a la profundidad y el volumen de los rizomas, sin embargo los m\u00E9todos mec\u00E1nicos mas usados son el corte por debajo de la l\u00EDnea de flotaci\u00F3n o la generaci\u00F3n de sombra. Para el caso de Typha latifolia que presenta un comportamiento de invasi\u00F3n similar a T. angustifolia, SDA (2008) recomienda la entresaca de secciones que permitan la recuperaci\u00F3n del espejo de agua y el flujo adecuado. En cuanto al control qu\u00EDmico, se aconseja aplicar los herbisidas convencionales como dalapon o glifosato cuando la planta se encuenta en floraci\u00F3n, la desventaja de este m\u00E9todo es que genera gran volumen de materia descompuesta que deja el agua inutilizable",
+    "riskLevel": 2,
+    "urlImage": "https://apicolombiastorage.blob.core.windows.net/invasivespecies/17-Enea, junco.png"
+  },
+  {
+    "id": 18,
+    "name": "Eucalipto",
+    "scientificName": "Eucalyptus camaldulensis Dehnh",
+    "commonNames": "eucalipto, eucaliptus",
+    "impact": "este \u00E1rbol agotan los nutrientes del suelo y reduce las reservas de agua (CABI 2014). Tambi\u00E9n presenta sustancias alelop\u00E1ticas que impide el crecimiento de otras especies, este impacto se observa incluso despu\u00E9s de eliminar una plantaci\u00F3n de E. camaldulensis",
+    "manage": "seg\u00FAn Reed et al (2009), el m\u00E9todo de control m\u00E1s efectivo es cortar la parte baja del tallo para luego cubrirla con un pl\u00E1stico grueso. Si no se quiere tener problemas en cuanto a reciclaje con el pl\u00E1stico, se puede cortar la parte baja del tallo y no cubrirla, sin embargo no es muy eficiente y se vuelve m\u00E1s costoso ya que en este caso se necesita cortar los tallos m\u00E1s de una vez. El m\u00E9todo menos efectivo y m\u00E1s costoso es el control qu\u00EDmico.",
+    "riskLevel": 2,
+    "urlImage": "https://apicolombiastorage.blob.core.windows.net/invasivespecies/18-Eucalipto.png"
+  },
+  {
+    "id": 19,
+    "name": "Faragua",
+    "scientificName": "Hyparrhenia rufa (Nees) Stapf",
+    "commonNames": "aragu\u00E1, faragua, pasto puntero, puntero, pasto yaragu\u00E1, yaragu\u00E1, yaragu\u00E1 peludo, uribe, yaragu\u00E1 leg\u00EDtimo y yaragu\u00E1 uribe",
+    "impact": "H. rufa transforma las sabanas, ya que desplaza las especies nativas de este ecosistema, adem\u00E1s responde r\u00E1pidamente a incendios, siendo capaz de detener la sucesi\u00F3n de las \u00E1reas que han sido afectadas por este disturbio y mantenerlas como si fueran sabanas o pastizales",
+    "manage": "una alternativa es la remoci\u00F3n manual, tambi\u00E9n se ha aplicado glifosato al 2% en las hojas, siendo necesario realizar un seguimiento ya que las semillas son muy resistentes (CABI 2014). Se recomienda remover los individuos antes de que las semillas maduren para evitar una dispersi\u00F3n de semillas (PIER 2013). Por otro lado, Rivera (2012) propone como alternativas de control biol\u00F3gico el hongo fitopat\u00F3geno Fusarium sp. y el ganado caprino.",
+    "riskLevel": 2,
+    "urlImage": "https://apicolombiastorage.blob.core.windows.net/invasivespecies/19-Faragua.png"
+  },
+  {
+    "id": 20,
+    "name": "Guinea",
+    "scientificName": "Megathyrsus maximus (Jacq.) B. K. Simon & Jacobs",
+    "commonNames": "guinea, pasto guinea, india, hierba india, indio, pasto indio, yerba india, guinea pajarito, yerba de Guinea, pasto chig\u00FCiro, saboya, castilla, pasto castilla, guined\u00F3n y zaina",
+    "impact": "Este pasto invade varios cultivos como el cultivo de ca\u00F1a de az\u00FAcar, algod\u00F3n, caf\u00E9, entre otros; aumentando los costos de producci\u00F3n de dichos productos para el control y manejo de esta invasora. Adem\u00E1s suprime y desplaza especies nativas, ya que tiene un crecimiento tan r\u00E1pido que sofoca las pl\u00E1ntulas de otras especies y tiene gran facilidad para dominar \u00E1reas que han sufrido quemas",
+    "manage": "para que el control qu\u00EDmico sea eficiente se realiza en dos pasos, primero se aplican herbicidas de pre-emergencia para evitar un nuevo crecimiento y luego herbicidas postemergencia para destruir la parte a\u00E9rea y las ra\u00EDces de la planta. Finalmente, a los individuos que sobreviven a estas medidas se les aplica herbicidas tales como glifosato.",
+    "riskLevel": 2,
+    "urlImage": "https://apicolombiastorage.blob.core.windows.net/invasivespecies/20-Guinea.png"
+  },
+  {
+    "id": 21,
+    "name": "Helecho marranero",
+    "scientificName": "Pteridium aquilinum",
+    "commonNames": "helecho macho, helecho liso, helecho de marrano ",
+    "impact": "Pteridium aquilinum afecta principalmente los ecosistemas con alg\u00FAn tipo de intervenci\u00F3n antr\u00F3pica, ya que se ve favorecido por suelos pobres y \u00E1cidos escoge sitios de cultivo, pastizales, \u00E1reas taladas, parcelas abandonadas, potreros y zonas que han sido quemadas. Su invasi\u00F3n es problem\u00E1tica para la conservaci\u00F3n y para los productores y administradores de recursos retrasando la recuperaci\u00F3n de bosques y parcelas, adem\u00E1s puede imposibilitar la labor de los campesinos ya que su sistema radicular es muy resistente incluso a los herbicidas, lo que hace muy costosa la mano de obra para erradicarlo",
+    "manage": "Pteridium aquilinum es considerada una de las plantas invasoras m\u00E1s exitosas del mundo, de manera que se han invertido esfuerzos e investigaci\u00F3n para establecer mecanismos y medidas de control y manejo de la especie, sin embargo a\u00FAn falta seguir explorando este \u00E1mbito, al ser una especie tan agresiva y con m\u00FAltiples respuestas al estr\u00E9s",
+    "riskLevel": 2,
+    "urlImage": "https://apicolombiastorage.blob.core.windows.net/invasivespecies/21-Helecho marranero.png"
+  },
+  {
+    "id": 23,
+    "name": "Higuerilla",
+    "scientificName": "Ricinus communis L.",
+    "commonNames": "higuerillo, higuereta (o), higuerillo blanco, higuerillo rojo, t\u00E1rtago, castor, rejalgar, ricino, palmacristi, popo y tirraya",
+    "impact": "es una especie t\u00F3xica en humanos y animales, especialmente las semillas y el follaje. La planta g\u00E9nera competencia por reducci\u00F3n de espacio y dificulta la regeneraci\u00F3n y establecimiento de especies end\u00E9micas, afectando la sucesi\u00F3n natural. Luego de un incendio sus semillas tienen facilidad para germinar, creciendo r\u00E1pidamente",
+    "manage": "las pl\u00E1ntulas y plantas j\u00F3venes se pueden retirar manualmente, mientras que las plantas adultas deben retirarse con el sistema radicular, puesto que esta especie tiene una gran capacidad de rebrote. El m\u00E9todo m\u00E1s eficiente es realizar la tala y luego recibir un tratamiento con herbicidas como glifosato o picloram + 2,4-D. Cuando estos dos herbicidas se usan sin realizar alg\u00FAn control manual previamente se aconseja aplicar antes de que el arbusto haya dado frutos. Es aconsejable revisar las plantas luego de aplicar los herbicidas, para erradicar manualmente alg\u00FAn rebrote que pueda surgir",
+    "riskLevel": 2,
+    "urlImage": "https://apicolombiastorage.blob.core.windows.net/invasivespecies/23-Higuerilla.png"
+  },
+  {
+    "id": 24,
+    "name": "Hojasanta",
+    "scientificName": "Bryophyllum pinnatum",
+    "commonNames": "colombiana, espiritusanto, bruja, hierbasanta, yerbasanta, chupahuevo, hoja de la fortuna, hoja del soldado, hoja inmortal, malamadre, patriota, pereirana de mata y siempreviva",
+    "impact": "en las islas Gal\u00E1pagos se ha reportado que K. pinnata invade cultivos y act\u00FAa como hospedero de varias plagas para dichos cultivos, incluyendo el thysanoptero Scirtothrips aurantii, el hongo Athelia rolfsii y el nematodo Xiphinema brevicolle; lo cual genera impactos en cuanto a los costos de control. Por otro lado, esta especie al crecer bajo la sombra genera impactos sobre la biodiversidad de los lugares donde se encuentra, ya que presenta sustancias alelop\u00E1ticas en sus ra\u00EDces y hojas ca\u00EDdas que le ayudan a formar poblaciones densas y gruesas que desplazan la vegetaci\u00F3n antes existente que en muchos casos puede ser vegetaci\u00F3n nativa",
+    "manage": "K. pinnata se puede controlar manualmente siempre que se evite la ca\u00EDda de las hojas en el proceso y se elimine completamente toda la planta, especialmente las ra\u00EDces ya que esto facilitar\u00EDa el rebrote de la planta (Soria et al. 2002, CABI 2014). En cuanto al control qu\u00EDmico Sparkes et al. (2002), realiz\u00F3 ensayos de eficacia donde encontr\u00F3 que los mejores herbicidas para controlar K. pinnata son 2,4-D y fluroxipir con valores superiores a 90% de los \u00EDndices de mortalidad; recomendando el herbicida 2,4-D ya que este presenta un menor costo y menores impactos ambientales, sin embargo en la Isla Gal\u00E1pagos se usa una aplicaci\u00F3n foliar de glifosato para controlar K. pinnata",
+    "riskLevel": 1,
+    "urlImage": "https://apicolombiastorage.blob.core.windows.net/invasivespecies/24-Hojasanta.png"
+  },
+  {
+    "id": 25,
+    "name": "Jazm\u00EDn australiano",
+    "scientificName": "Pittosporum undulatum Vent",
+    "commonNames": "jazm\u00EDn, blanquillo y laurel huesito",
+    "impact": "P. undulatum es una amenaza para bosques nativos ya que causa una reducci\u00F3n en la diversidad de la zonas donde se establece, debido a que este \u00E1rbol domina f\u00E1cilmente los bosques, debido a que presente una copa densa que proporciona demasiada sombra e inhibe el crecimiento de las especies nativas, incluso las tolerantes a la sombra. Adem\u00E1s compite fuertemente por el suelo, los nutrientes, genera sustancias alelop\u00E1tica y cambia el paisaje",
+    "manage": "cuando los individuos son j\u00F3venes se pueden arrancar manualmente pero cuando son adultos se realiza la tala o eliminaci\u00F3n de esta especie us\u00E1ndola para fines madereros o de le\u00F1a, aunque los claros que quedas despu\u00E9s de su eliminaci\u00F3n promueven la regeneraci\u00F3n de esta especie o el establecimiento de otras especies invasoras. Otra manera de controlar esta especies es realizar quemas controladas ya que P. undulatum no tolera el fuego y sus semillas pierden viabilidad a temperaturas altas. El control qu\u00EDmico para esta especie es poco com\u00FAn debido a que se establece generalmente dentro de bosques y los herbicidas podr\u00EDan afectar el resto de las especies",
+    "riskLevel": 2,
+    "urlImage": "https://apicolombiastorage.blob.core.windows.net/invasivespecies/25-Jazm\u00EDn australiano.png"
+  },
+  {
+    "id": 26,
+    "name": "Kicuyo",
+    "scientificName": "Cenchrus clandestinus",
+    "commonNames": "cocuy, cucuy, grama, kikuyo, kikuyo dorado, pasto kikuyo, pasto cucuy, pasto valencia, picuy, picuyo y quicuyo",
+    "impact": "este pasto produce una gran cantidad de biomasa que desplaza otras especies ya que genera sustancias alelop\u00E1ticas y ahoga el banco de semillas de las especies nativas, sin embargo ayuda a conservar el suelo (Gaertner et al. 2011, CABI 2014). De acuerdo a SDA (2008), la cobertura de los humedales de Bogot\u00E1 indican que esta especie, es la principal invasora de los humedales y constituye un serio impedimento para el desarrollo de la vegetaci\u00F3n natural en la interfase terrestre acu\u00E1tica.",
+    "manage": "el control mec\u00E1nico es complicado debido a que las ra\u00EDces se encuentran a 20 \u2013 30 cm de profundidad, por eso se emplea mas el control qu\u00EDmico, con herbicidas est\u00E1ndar para pastos como glifosato, paraquat, TCA, monuron y dalapon o herbicidas selectivos como Fluazifop-butil y haloxifop, aunque se ha reportado que estos \u00FAltimos herbicidas no tienen mucho \u00E9xito. No se conoce enemigo natural que pueda ser usado como controlador biol\u00F3gico",
+    "riskLevel": 2,
+    "urlImage": "https://apicolombiastorage.blob.core.windows.net/invasivespecies/26-Kicuyo.png"
+  },
+  {
+    "id": 27,
+    "name": "L\u00E1grimas de San Pedro",
+    "scientificName": "Coix lacryma-jobi L",
+    "commonNames": "cam\u00E1ndula, cuentas de milagro, l\u00E1grimas de Job, milagro, mois\u00E9s, ojo de Dios, trigo, trigo amaz\u00F3nico, trigo brasilero, trigo peruano, sampedrito, sorgo y yerba de milagro",
+    "impact": "Jansen (2006) reporta que algunos animales invasores como las ratas se alimentan de esta especie. Por otro lado Jampeetong et al. (2013) indican que C. lacryma-jobi es efectivo removiendo nitr\u00F3geno y fosforo, lo cual altera el ciclo de nutrientes del suelo donde se encuentre.",
+    "manage": "las enfermedad m\u00E1s grave de C. lacryma-jobi son producidas por el hongo Ustilago coicis que destruye los ovarios de las flores y los hongos Bipolaris coicis, Phyllachora Coicis,Puccinia operata y Ustilago Lachrymae-jobi que afectan las hojas (Jansen 2006). Los cuales podr\u00EDan ser potenciales controladores biol\u00F3gicos, especialmente el hongo Ustilago coicis.",
+    "riskLevel": 1,
+    "urlImage": "https://apicolombiastorage.blob.core.windows.net/invasivespecies/27-L\u00E1grimas de San Pedro.png"
+  },
+  {
+    "id": 28,
+    "name": "Lechuga de agua",
+    "scientificName": "Pistia stratiotes L.",
+    "commonNames": "lechuga de agua, oreja de mula (o), flor de totumo, murure, buchona, lechuga, lechuga de r\u00EDo, lechuguilla, repollito de agua y sirena",
+    "impact": "P. stratiotes trae varios impactos negativos sobre la biodiversidad ya que provaca cambios en las caracter\u00EDsticas f\u00EDsico \u2013 qu\u00EDmicas en el lugar donde se encuentra, debido a que aumenta los niveles de nitrato, amonio, nitr\u00F3geno total, f\u00F3sforo total, el total de bacterias, la tasa de sedimentaci\u00F3n y aumento en la carga de nutrientes; al mismo tiempo disminuye el pH, DO, \u00EDndice de permanganato y la diversidad total de plancton.",
+    "manage": "el control mec\u00E1nico se puede hacer manualmente o por medio de maquinaria dependiendo la cantidad de la biomasa, se debe tener en cuenta que este control se necesita de un mantenimiento constante ya que si no se hace la infestaci\u00F3n vuelve a suceder. El control quimico puede generar graves consecuencias para el medio ambiente, poniendo en peligro la salud de la poblaci\u00F3n local si el agua se utiliza para beber, ba\u00F1arse, nadar o lavado, sin embargo los herbicidas mas usados para este control son diquat, una combinaci\u00F3n de diquat y triclopir, glifosato, clorsulfur\u00F3n, terbutrina, 2,4-D y endotal.",
+    "riskLevel": 2,
+    "urlImage": "https://apicolombiastorage.blob.core.windows.net/invasivespecies/28-Lechuga de agua.png"
+  },
+  {
+    "id": 29,
+    "name": "Leng\u00FCevaca",
+    "scientificName": "Rumex crispus L.",
+    "commonNames": "arracachuelo, leng\u00FCevaca, romaza, ruibarbo, lengua de vaca, romazo, bijuac\u00E1, romacillo, ribarbo, riobarbo, ruibarbo de huerta, arracachuela (o), barbasco, barrab\u00E1s, chueca y paciencia",
+    "impact": "R. crispus en pastizales se convierte en un fuerte competidor de los pastos que son el alimento del ganado, generando p\u00E9rdidas en la oferta alimenticia para estos animales ya que R. crispus no es muy apetecida por bovinos y si es consumida en grandes cantidades puede generar trastornos g\u00E1stricos y de la piel en estos animales",
+    "manage": "el control qu\u00EDmico es el m\u00E1s usado siendo m\u00E1s efectivo cuando se realiza mientras la planta se encuentra en estado vegetativo, los herbicidas m\u00E1s eficientes son 2,4-D, MCPA, diclorprop, mecoprop, fluroxipyr, tifensulfur\u00F3n-metilo y tribenur\u00F3n-metilo. En Autralia se ha realizado control biol\u00F3gico con los lepid\u00F3pteros Bambecia chrysisiformis y Chamaesphecia doryliformis y los hongo Uromyces rumicis y Ramularia rubella. En Republica Checa se realiz\u00F3 un experimento donde usaban la herb\u00EDvora de las cabras para controlar R. obtusifolius y R. crispuscomo, reportando a las cabras como potenciales agentes controladores en pasturas",
+    "riskLevel": 2,
+    "urlImage": "https://apicolombiastorage.blob.core.windows.net/invasivespecies/29-Leng\u00FCevaca.png"
+  },
+  {
+    "id": 30,
+    "name": "Lenteja de agua",
+    "scientificName": "Lemna aequinoctialis Welw",
+    "commonNames": "Lenteja de agua",
+    "impact": "esta planta acu\u00E1tica altera el ciclo del agua debido a que forman un colch\u00F3n que impide la entrada de luz y cambia aspectos como la turbidez, los niveles de ox\u00EDgeno y sedimentaci\u00F3n. Causando un desplazamiento de las especies nativas y perdida de espacios acu\u00E1ticos con fines pesqueros, de recreaci\u00F3n o transporte",
+    "manage": "el control mec\u00E1nico para esta especie es costoso, demorado y no muestra resultados favorables cuando se aplica solo, por lo cual se aconseja mezclar con control qu\u00EDmico o biol\u00F3gico. El control qu\u00EDmico es complicado por el gran n\u00FAmero de plantas que se acumulan en masas en la superficie del agua, sin embargo cuando se usa se aplican los herbicidas endotal y diquat, los cuales se deben aplicar peri\u00F3dicamente cada 7 - 10 d\u00EDas. En cuanto a control biol\u00F3gico no se ha reportado ninguna especie que se haya usado como agente controlador, sin embargo se sabe que la larva de las moscas Lemnaphila scotlandae, las moscas Lemnaphila neotropica, y Hydrellia williamsi, el coleoptero Tanysphyrus lemnae y el pez Ctenopharyngodon idella se alimentan de la hoja de Lemna spp.",
+    "riskLevel": 2,
+    "urlImage": "https://apicolombiastorage.blob.core.windows.net/invasivespecies/30-Lenteja de agua.png"
+  },
+  {
+    "id": 31,
+    "name": "Lenteja de agua 2",
+    "scientificName": "Spirodela intermedia",
+    "commonNames": "espirodela",
+    "impact": "los impactos para S. intermedia son desconocidos pero es una especie que tiene caracter\u00EDsticas de especie invasora debido a su r\u00E1pida colonizaci\u00F3n, f\u00E1cil distribuci\u00F3n y tasa de dispersi\u00F3n r\u00E1pida (GISD 2014). Probablemente como todas las anteriores especies acu\u00E1ticas flotantes mencionadas en este trabajo S. intermedia en grandes cantidades puede alterar la composici\u00F3n f\u00EDsicoqu\u00EDmica del agua, desplazar especies nativas y alterar cuerpos de agua destinados a pesca, recreaci\u00F3n o transporte.",
+    "manage": "para esta especie se ha reportado control qu\u00EDmico con los herbicidas diquat y paraquat, sin embargo un estudio realizado en Florida mostr\u00F3 que despu\u00E9s de 20 - 30 a\u00F1os S. intermedia desarrolla resistencia a estos herbicidas (GISD 2014). Santos & Banzatto (2000) realizaron un estudio para determinar los efectos de los herbicidas atrazina, 2,4-D, glifosato (aplicados directa e indirectamente) y trifluralina sobre S. intermedia y Salvinia minima, encontrando que S. intermedia fue m\u00E1s sensible a los a trifluralina y aquellos herbicidas aplicados indirectamente.",
+    "riskLevel": 2,
+    "urlImage": "https://apicolombiastorage.blob.core.windows.net/invasivespecies/31-Lenteja de agua 2.png"
+  },
+  {
+    "id": 32,
+    "name": "Llant\u00E9n",
+    "scientificName": "Plantago major L",
+    "commonNames": "llant\u00E9n, chiracru y chiracu",
+    "impact": "P. major ha sido reportada como un especie invasora en cultivos agr\u00EDcolas y pastizales en m\u00E1s de 50 pa\u00EDses, por ejemplo en el Reuno Unido afecta predios deportivos como canchas de futbol y en Canad\u00E1 esta presenta en 80% de los campos de cereal con una densidad media de m\u00E1s de 14 plantas por m\u00B2. En B\u00E9lgica tambi\u00E9n se reporta como especie invasora en los andenes de las ciudades",
+    "manage": "para controlar esta especie se puede realizar una fumigaci\u00F3n mecanizada con agua caliente de 85 \u2013 95\u00B0C, la cual se debe aplicar de dos a tres veces para tener un buen control. Tambi\u00E9n se puede hacer uso de los herbicidas clortal-dimetil + naptalam y glifosato que mostraron muy buenos resultados frente al control de esta especie al aplicarlos en cultivos de cereales antes y despu\u00E9s de la cosecha; cuando P. major se encuentra en pastizales se recomienda usar los herbicida 2,4-D , clopiralida y triclopir, quinclorac o triclopir, se aconseja aplicar dichos herbicidas con nitr\u00F3geno pesado para obtener mejores resultados. En cuanto al control biol\u00F3gico se recomienda realizar alg\u00FAn tipo de investigaci\u00F3n acerca de esta especie ya que no se han identificado posibles controladores biol\u00F3gicos",
+    "riskLevel": 1,
+    "urlImage": "https://apicolombiastorage.blob.core.windows.net/invasivespecies/32-Llant\u00E9n.png"
+  },
+  {
+    "id": 33,
+    "name": "Matandrea",
+    "scientificName": "Hedychium coronarium",
+    "commonNames": "ajengibre, ang\u00E9lica, bengible, bijag\u00FCillo, conga, congo, hidotropo, hiliotropo, inopropio, jengibre, jilotropos, lirio y quereme de las quebradas",
+    "impact": "la alteraci\u00F3n de los niveles tr\u00F3ficos, da\u00F1o de los servicios ecosist\u00E9micos, cambio en los ecosistemas por alteraci\u00F3n del h\u00E1bitat, formaci\u00F3n de monocultivos, impactos negativos sobre la agricultura, impactos negativos sobre pr\u00E1cticas culturales y tradicionales, impactos negativos, sobre la silvicultura, reducci\u00F3n de la biodiversidad nativa, amenaza sobre especies en peligro, amenaza sobre especies en nativas",
+    "manage": "Se recomienda evitar la dispersi\u00F3n de la especie en \u00E1reas naturales, especialmente evitar cultivarla (Rojas 2010). Se puede debilitar una poblaci\u00F3n a trav\u00E9s de cortes regulares. Soares & Barreto (2008), con base en sus estudios en Brasil plantean, que el control qu\u00EDmico y mec\u00E1nico de esta planta en ese pa\u00EDs, as\u00ED como en otros lugares, no es viable debido a que sus rizomas son muy resistentes y dif\u00EDciles de eliminar.",
+    "riskLevel": 2,
+    "urlImage": "https://apicolombiastorage.blob.core.windows.net/invasivespecies/33-Matandrea.png"
+  },
+  {
+    "id": 34,
+    "name": "Panelo",
+    "scientificName": "Leucaena leucocephala",
+    "commonNames": "leucaena, acacia blanca, panelo, carbonero blanco, acacia forrajera, carbonero, carbonero quiebrahacha y ucaena",
+    "impact": "este \u00E1rbol puede llegar a formar matorrales densos y desplazar la vegetaci\u00F3n nativa, debido a que altera el ciclare de nutrientes del suelo por la alta producci\u00F3n de nitr\u00F3geno que produce esta leguminosa. Esta caracter\u00EDstica permite que en algunos pa\u00EDses como M\u00E9xico sea usada en sistemas agroforestales, ya que se ha comprobado que en las praderas con fines ganaderos la asociaci\u00F3n gram\u00EDnea-leguminosa mejora la calidad nutricional que ofrecen dichas praderas. No obstante existen pocos reportes de que L. leucocephala presenta sustancias alelop\u00E1ticas",
+    "manage": "el control mec\u00E1nico funciona solo cuando la planta se arranca de ra\u00EDz, siendo \u00FAtil este manejo solo para individuos j\u00F3venes; cuando los individuos son adultos la mejor opci\u00F3n es combinar el control mec\u00E1nico con el qu\u00EDmico, donde despu\u00E9s de realizar el corte se aconseja aplicar herbicidas como triclopyr en hojas o tebutiur\u00F3n en suelo (CABI 2014). En sur \u00C1frica se ha probado control biol\u00F3gico con el cole\u00F3ptero Acanthoscelides macrophthalmus, quien es nativo de Centro Am\u00E9rica y contrarrestan la excesiva producci\u00F3n de semillas de L. leucocephala, debido a que las hembras ponen sus huevos en la vainas vac\u00EDas que quedan en los \u00E1rboles y cuando estos pasan a estadio larval se comen las semillas",
+    "riskLevel": 2,
+    "urlImage": "https://apicolombiastorage.blob.core.windows.net/invasivespecies/34-Panelo.png"
+  },
+  {
+    "id": 36,
+    "name": "Pasto argentina",
+    "scientificName": "Cynodon dactylon",
+    "commonNames": "angola, argentina (o), barrenillo, bermuda, bermuda grass (San Andr\u00E9s) cr\u00EDtica, cruceta, grama, grama de gallina, grama dulce, gramilla brava, gramilla colorada, paja de la virgen, paraguitas, pasto argentina, pasto bermuda, pasto estrella, pasto de gallina, pata de perdiz, pelo de vieja, tejedora, u\u00F1a de gato y yerba argentina",
+    "impact": "seg\u00FAn Holm et al. (1977) C. dactylon es la segunda especie m\u00E1s invasiva en el mundo. Invade f\u00E1cilmente los cultivos y ecosistemas modificados, incluyendo \u00E1reas urbanas y caminos. Se ha reportado que impide el crecimiento de nueve especies cultivables debido a que presenta sustancias alelop\u00E1ticas",
+    "manage": "una forma de controlar su expansi\u00F3n es proporcion\u00E1ndole sombra por medio de la siembra de especies herb\u00E1ceas o arbustivas como fab\u00E1ceas o cereales, o usando un pl\u00E1stico oscuro que aumente la temperatura del suelo. El control qu\u00EDmico funciona solo para escalas peque\u00F1as, debido a que generalmente se hace uso de este en cultivos y los herbicidas usados como glifosato no son selectivos, afectando tambi\u00E9n las especies cultivadas. Algunos hongos tienen potencial para ser usados como controladores biol\u00F3gicos, pero no se han realizado suficientes estudios",
+    "riskLevel": 2,
+    "urlImage": "https://apicolombiastorage.blob.core.windows.net/invasivespecies/36-Pasto argentina.png"
+  },
+  {
+    "id": 37,
+    "name": "Pasto elefante",
+    "scientificName": "Cenchrus purpureus",
+    "commonNames": "elefante, gigante, king grass, kingras, kingr\u00E1s, maralfalfa, micay, pasto elefante del brasil y yerba elefante",
+    "impact": "presenta r\u00E1pido crecimiento, lo que le permite colonizar nuevas \u00E1reas f\u00E1cilmente debido a que forma matorrales densos que desplazan especies nativas, adem\u00E1s alterar los reg\u00EDmenes de fuego, el ciclo hidrol\u00F3gico y el ciclo de nutrientes del lugar donde crece. Cuando se encuentra en \u00E1reas cercanas a r\u00EDos puede bloquear el acceso de los canales y causar problemas de inundaci\u00F3n",
+    "manage": "cuando hay peque\u00F1as invasiones de P. purpureum se puede realizar un control mec\u00E1nico cortando y removiendo todos sus rizomas, pero si la invasi\u00F3n es grande se recomienda combinar el control mec\u00E1nico y qu\u00EDmico mediante quemas y aplicaci\u00F3n de herbicidas como glifosato y cletodim sobre los rebrotes",
+    "riskLevel": 2,
+    "urlImage": "https://apicolombiastorage.blob.core.windows.net/invasivespecies/37-Pasto elefante.png"
+  },
+  {
+    "id": 38,
+    "name": "Pasto poa",
+    "scientificName": "Holcus lanatus L",
+    "commonNames": "avena choclo, falsa poa, pasto lanoso, pasto lanudo, poa, poa azul y saboy\u00E1",
+    "impact": " invade r\u00E1pidamente \u00E1reas disturbas, impidiendo el establecimiento de especies nativas ya que persiste como una de las especies dominantes. Forma praderas densas que dan sombra al banco de semillas e impiden el crecimiento de especies nativas, es un competidor fuerte de nutrientes y agua, altera la composici\u00F3n qu\u00EDmica del suelo",
+    "manage": "para controlar este pasto se recomienda realizar un control mec\u00E1nico con animales como ovejas, caballo o vacas, ya que se ha reportado que el pisoteo constante puede acabar con H. lanatus y que el corte constante ayuda a reanudar la reproducci\u00F3n vegetativa.",
+    "riskLevel": 2,
+    "urlImage": "https://apicolombiastorage.blob.core.windows.net/invasivespecies/38-Pasto poa.png"
+  },
+  {
+    "id": 39,
+    "name": "Pino",
+    "scientificName": "Pinus caribaea Morelet",
+    "commonNames": "Pino",
+    "impact": "P. caribaea es una especie que se ha desarrollado por fuera de las plantaciones forestales, creciendo densamente en \u00E1reas disturbadas, desplazando especies nativas y produciendo una gran cantidad de hojarasca que genera cambios en la hidrolog\u00EDa, ciclo de nutrientes y reg\u00EDmenes de incendios de los lugares que invade",
+    "manage": "el Departamento de Agricultura de Australia (2003) recomienda realizar control qu\u00EDmico inyectando los tallos con N-fosfonometil-glicina (glifosato), \u00E1cido 3,5,6-tricloro-2- piridiniloxiac\u00E9ticos (triclopir) o-3,5,6-tricloro-2-piridincarbox\u00EDlico 4-amino \u00E1cido (picloram); el corte de la inyecci\u00F3n debe ser a trav\u00E9s de la corteza y lo suficientemente profunda para colocar el producto qu\u00EDmico en contacto con la albura. Otra opci\u00F3n es inyectar la corteza basal con \u00E1cido 3,5,6-tricloro-2- piridiniloxiac\u00E9ticos (triclopir) o 4-amino-3,5,6-tricloro-2-met\u00EDlico del \u00E1cido (picloram). Para aumentar la absorci\u00F3n de los herbicidas se recomienda eliminar la corteza del tronco",
+    "riskLevel": 2,
+    "urlImage": "https://apicolombiastorage.blob.core.windows.net/invasivespecies/39-Pino.png"
+  },
+  {
+    "id": 40,
+    "name": "Pomarroso",
+    "scientificName": "Syzygium malaccense",
+    "commonNames": "pomarroso brasilero, pomarroso brasile\u00F1o, pomarrosa del Brasil, pomorroso brasilero, pomorroso (a), pera, perita, perito, pero de agua, pera de agua, pera de Malasia, manzana de agua, manzano chino, pomo, mara\u00F1\u00F3n y \u00F1ambo",
+    "impact": "Whistler & Elevitch (2006) no consideran que S. malaccense es una especie invasora aunque haya sido naturalizada en \u00E1reas donde se ha introducido.",
+    "manage": "un posible control f\u00EDsico es realizar una tala del individuo sin necesidad de usar herbicidas",
+    "riskLevel": 1,
+    "urlImage": "https://apicolombiastorage.blob.core.windows.net/invasivespecies/40-Pomarroso.png"
+  },
+  {
+    "id": 41,
+    "name": "Retamo espinoso",
+    "scientificName": "Ulex europaeus L",
+    "commonNames": "espino amarillo, espino de jard\u00EDn, espino de oro, retama amarilla, retama espinosa",
+    "impact": "los matorrales de retamo espinoso acumulan grandes cantidades de necromasa en pie y poca humedad, lo que favorece la ocurrencia y expansi\u00F3n de fuegos de vegetaci\u00F3n que eliminan a sus competidoras y tras los cuales Ulex rebrota y retoma r\u00E1pidamente el control (Salamanca & Camargo 2002). Su habilidad competitiva la hace colonizar r\u00E1pidamente potreros abandonados, desplazando posibles focos de regeneraci\u00F3n natural de la vegetaci\u00F3n, zonas de laderas erosionadas, bordes de quebradas y lugares donde se ha transformado el paisaje monta\u00F1oso, impidiendo su regenaraci\u00F3n natural",
+    "manage": "la erradicaci\u00F3n manual y mec\u00E1nicade coberturas adultas, la incineraci\u00F3n, las quemas controladas, la elaboraci\u00F3n de trampas de semillas para el control de la dispersi\u00F3n de la especie, eliminaci\u00F3n de rebrotes y pl\u00E1ntulas y la plantaci\u00F3n con especies nativas en las \u00E1reas de erradicaci\u00F3n, se constituyen en diferentes t\u00E9cnicas enfocadas al control de las invasiones por retamo espinoso. El proceso de erradicaci\u00F3n manual y mec\u00E1nica consiste en el corte de las estructuras a\u00E9reas y subterr\u00E1neas de todos los individuos de retamo existentes en el \u00E1rea a tratar, con la ayuda de herramientas como machetes, barras, picas, guada\u00F1as, motosierra y retroexcavadora.",
+    "riskLevel": 2,
+    "urlImage": "https://apicolombiastorage.blob.core.windows.net/invasivespecies/41-Retamo espinoso.png"
+  },
+  {
+    "id": 42,
+    "name": "Retamo liso",
+    "scientificName": "Genista monspessulana",
+    "commonNames": "retamo(a), retamo(a) blanco, retamo(a) de jard\u00EDn y retamo peque\u00F1o",
+    "impact": "G. monspessulana puede establecerse y reproducirse f\u00E1cilmente despu\u00E9s de un disturbio, e incluso desplaza las especies nativas de flora y fauna y promueve la llegada de animales ex\u00F3ticos, aumenta la frecuencia e intensidad de incendios, altera el ciclo del agua e incrementa los niveles de nitr\u00F3geno del suelo. Es un competidor muy fuerte y puede llegar a dominar una comunidad de plantas, formando densos y monoespec\u00EDficos rodales",
+    "manage": "las opciones para el manejo var\u00EDan dependiendo de la complejidad de los ecosistemas invadidos y las condiciones ambientales existentes; la quema, la aplicaci\u00F3n de herbicidas y la destrucci\u00F3n mec\u00E1nica son las pr\u00E1cticas predominantes. Holmberg et al. (2007), plantean que el manejo del retamo debe incluir la reducci\u00F3n de su espacio ecol\u00F3gico, afectando sus atributos competitivos, favoreciendo condiciones que lo afectan y potenciando los atributos competitivos de otras especies",
+    "riskLevel": 2,
+    "urlImage": "https://apicolombiastorage.blob.core.windows.net/invasivespecies/42-Retamo liso.png"
+  },
+  {
+    "id": 43,
+    "name": "Revientacaballos",
+    "scientificName": "Hippobroma longiflora",
+    "commonNames": "azucena, borraja, estrella, estrella polar, estrellita, jazm\u00EDn, jazm\u00EDn chino y tabaco macho",
+    "impact": "en M\u00E9xico se encuentra como maleza en cultivos de pl\u00E1tano (Villase\u00F1or & Espinosa 1998). Por otro lado, Dave's Garden (2001) informan que todas las partes de la planta son t\u00F3xicas, si se ingieren o hay alg\u00FAn tipo de manipulaci\u00F3n constante se pueden generar irritaci\u00F3n de la piel o reacci\u00F3n al\u00E9rgica.",
+    "manage": "",
+    "riskLevel": 1,
+    "urlImage": "https://apicolombiastorage.blob.core.windows.net/invasivespecies/43-Revientacaballos.png"
+  },
+  {
+    "id": 44,
+    "name": "Subicog\u00E9",
+    "scientificName": "Momordica charantia L",
+    "commonNames": "balsamina, cundeamor, alchucha, yerba de culebra, bejuco de culebra, bocado de culebra, bocaoeculebra, fruto de la culebra, pepino de culebra, balsamino, balsamira, balsam\u00EDn, maravilla, marsamila, mavilla, bejuco de coj\u00E9, coj\u00E9, sibicog\u00E9n, sibijote, sibricog\u00E9n, subecog\u00E9, subicog\u00E9n, archucha, archurchis, chauchilla, pepinillo, pepino, pepino de monte y sonsonga",
+    "impact": "M. charantia es un problema para los cultivos ya que puede crecer sobre cualquier tipo de cultivo y compite por luz, nutrientes y agua. Se ha reportado que en Florida crece sobre c\u00EDtricos a finales de verano y oto\u00F1o; y que es una problem\u00E1tica en particular para la ca\u00F1a de az\u00FAcar ya que puede ahogar las plantas. Presenta mal olor y es hu\u00E9sped alternativo para virus, saltamontes y muchas otras plagas que afectan al apio, la papaya, la sand\u00EDa, entre otras especies de cultivo",
+    "manage": "aunque su h\u00E1bito rastrero hace que sea dif\u00EDcil de controlar, se puede tener un control manual arranc\u00E1ndola desde la ra\u00EDz o cortando la planta desde su base para parar el transporte de nutrientes y agua. Este m\u00E9todo es efectivo cuando se realiza varias veces durante un periodo prolongado (Englberger 2009, PIER 2011). CABI (2014) presenta una lista de 29 herbicidas que han sido usados para controlar esta especie. No se ha probado alg\u00FAn tipo de control biol\u00F3gico",
+    "riskLevel": 1,
+    "urlImage": "https://apicolombiastorage.blob.core.windows.net/invasivespecies/44-Subicog\u00E9.png"
+  },
+  {
+    "id": 45,
+    "name": "Susanita",
+    "scientificName": "Thunbergia alata",
+    "commonNames": "ojo de poeta, amor de madre, susana amarilla, colombiana, amor escondido, anteojo de poeta, ojitos, bejuco de perdiz",
+    "impact": "el riesgo de introducci\u00F3n de T. alata es muy alto, debido a su r\u00E1pido crecimiento y a que ha sido ampliamente usada como especie ornamental, donde se ha escapado y naturalizado, convirti\u00E9ndose en una serie amenaza para las comunidades de plantas nativas. Entre los impactos generados por esta especie se encuentran: la afectaci\u00F3n de los servicios ecosist\u00E9micos, cambios en los ecosistemas por alteraci\u00F3n del h\u00E1bitat, modificaci\u00F3n de los patrones sucesionales, generaci\u00F3n de grandes coberturas homog\u00E9neas, reducci\u00F3n de la biodiversidad nativa y amenaza o p\u00E9rdida de especies nativas",
+    "manage": "con el fin de evitar grandes invasiones en \u00E1reas naturales se recomienda controlar la especie desde las etapas iniciales de su establecimiento, retirando los segmentos de la planta y las ra\u00EDces, esto \u00FAltimo con el fin de evitar rebrotes. Un control f\u00EDsico se puede realizar a partir de la eliminaci\u00F3n manual de pl\u00E1ntulas lo que permitir\u00E1 agotar los bancos de semillas, si la invasi\u00F3n es grande es necesario usar maquinaria especializada ya que las ra\u00EDces subterr\u00E1neas tiene que ser eliminadas para evitar rebrotes.",
+    "riskLevel": 2,
+    "urlImage": "https://apicolombiastorage.blob.core.windows.net/invasivespecies/45-Susanita.png"
+  },
+  {
+    "id": 46,
+    "name": "Tulip\u00E1n",
+    "scientificName": "Spathodea campanulata",
+    "commonNames": "tulip\u00E1n africano, miona, rosa china, barquitos, pip\u00ED, tulip\u00E1n de gab\u00F3n, tulip\u00E1n rojo y roble africano",
+    "impact": "esta especie invade \u00E1reas abiertas como plantaciones forestales o \u00E1reas disturbadas y bosques cerrados, creando matorrales que proporcionan sombra y desplaza las plantas que las rodean, incluyendo \u00E1rboles que muchas veces pueden ser especies nativas. En cuba se reporta que ha invadido los cafetales, lo cual ha generado un impacto negativo para la econom\u00EDa de este pa\u00EDs",
+    "manage": "cuando los individuos est\u00E1n j\u00F3venes y el suelo esta h\u00FAmedo se puede erradicar manualmente, aunque las ra\u00EDces tienen la capacidad de rebrotar, por lo que es importante la remoci\u00F3n total. Cuando los \u00E1rboles est\u00E1n adultos se puede realizar una tala, seguida por la aplicaci\u00F3n de herbicidas. En Australia se realiz\u00F3 un control de esta especie combinando la tala y la aplicaci\u00F3n de los herbicidas triclopyr con picloram, el cual mostr\u00F3 buenos resultados; en este mismo lugar se realiz\u00F3 un control qu\u00EDmico, el cual consiste en inyectar los tallos con los herbicidas triclopir y picloram o solo glifosato. ",
+    "riskLevel": 1,
+    "urlImage": "https://apicolombiastorage.blob.core.windows.net/invasivespecies/46-Tulip\u00E1n.png"
+  },
+  {
+    "id": 47,
+    "name": "Venturosa",
+    "scientificName": "Lantana camara L",
+    "commonNames": "cariaquita (o), carrasquillo, sanguinaria, santaluc\u00EDa, Andaluc\u00EDa, carraquilla (o), carrasposa, colorada, conchita, curaverrugas, flor de sangre, gurupacha, huesito, julio, macanillo, mastranto, morupacha, murupacha, palabra de mujer, podera, poleo, poveda, salvi\u00F3n, sangrelinda, sangrinaria, sangrito, sangr\u00F3n, santana, tango, uvita, uvita negra, venturosa hembra, venturoso, verbena, yerba santaluc\u00EDa, yerbamora, zorra y zorrito",
+    "impact": "puede ahogar la vegetaci\u00F3n nativa y afectar cultivos o plantaciones forestales debido a su crecimiento denso, monoespecifico, su alta capacidad reproductiva y su producci\u00F3n de sustancias alelop\u00E1ticas. Aumenta la intensidad de fuego, modifica el patr\u00F3n espacial de plantas herb\u00E1ceas y el nivel de nutrientes del suelo (Sharma & Raghubanshi 2011, Goncalves et al. 2014). Es un potencial criadero de ratas, cerdos salvajes, plagas de insectos y enfermedades de las plantas, por ejemplo en Tanzania y Uganda se reporta que L. c\u00E1mara proporcionan criaderos a la moscas ts\u00E9-ts\u00E9 (Glossina spp.), vector de la tripanosomiasis",
+    "manage": "Osunkoya et al. (2013) propone un modelo con quemas controladas durante 4 - 10 a\u00F1os para manejar las invasiones de L. c\u00E1mara. El control mec\u00E1nico no es muy efectivo debido a que estimula el rebrote, pero cuando se mezcla con control qu\u00EDmico muestra mejores resultados, los herbicidas m\u00E1s efectivos son: \u00E1cido fenoxi (2,4-D, MCPA y diclorprop), \u00E1cido benzoico (Dicamba), glifosato, sulfonilureas, imidazolinonas y los del grupo de piridina",
+    "riskLevel": 2,
+    "urlImage": "https://apicolombiastorage.blob.core.windows.net/invasivespecies/47-Venturosa.png"
+  },
+  {
+    "id": 48,
+    "name": "Verbena blanca",
+    "scientificName": "Verbena litoralis Kunth",
+    "commonNames": "verbena blanca, verbena, verbena verde, verbena negra, catano y valbuena",
+    "impact": "en Hawaii se ha reportado que desplaza los pastos que se usan como pasturas, causando perdidas econ\u00F3micas a los campesinos (Motooka et al. 2003). En el sur de Estados Unidos se considera una especie invasora significativa ya que desplaza y pone en peligro especies de plantas nativas, por lo cual se ha prohibido en el Sistema Nacional Forestal Terrestre",
+    "manage": "como un esfuerzo de prevenci\u00F3n en Estados Unidos es considerada una especie que no debe ser plantada de manera ornamental. V. litoralis se puede eliminar f\u00E1cilmente de manera manual, debido a su h\u00E1bito herb\u00E1ceo y su tama\u00F1o.",
+    "riskLevel": 2,
+    "urlImage": "https://apicolombiastorage.blob.core.windows.net/invasivespecies/48-Verbena blanca.png"
+  },
+  {
+    "id": 68,
+    "name": "Tilapia del nilo",
+    "scientificName": "Oreochromis niloticus",
+    "commonNames": "tilapia plateada y tilapia roja",
+    "impact": "O. niloticus genera poblaciones muy grandes que beneficia a los pescadores, ya que esta especie es muy usada dentro del consumo humano. Sin embargo esas grandes poblaciones pueden generar efecto negativos sobre otras especies con comportamiento bent\u00F3nico como Ariopsis sp., Caquetaia kraussi, C. mapale, M. incilis, Prochilodus magdalenae, Pseudoplatystoma magdaleniatum, Sorubim cuspicaudus, entre otras, ya que hay una necesidad del h\u00E1bitat bent\u00F3nico para reproducirse.",
+    "manage": "el arte de pesca con chinchorro podr\u00EDa controlarla esta especie, ya que la captura total registrada en desembarque para este arte de pesca corresponde a un 80% de O. niloticus con individuos que tienen una longitud total de 8,5 cm",
+    "riskLevel": 2,
+    "urlImage": "https://apicolombiastorage.blob.core.windows.net/invasivespecies/68-Tilapia del nilo.png"
+  },
+  {
+    "id": 49,
+    "name": "Yaragu\u00E1",
+    "scientificName": "Melinis minutiflora",
+    "commonNames": "chop\u00EDn, chop\u00EDn gordura, chup\u00EDn, contraincendio, gordura, hierba del melado, pasto chop\u00EDn, pasto gordura, pasto yaragu\u00E1, yaguar\u00E1, yaragu\u00E1 falso, yaragu\u00E1 peluda y yaragu\u00E1 uribe",
+    "impact": "este pasto es una seria amenaza para la biodiversidad ya que presenta sustancias alelop\u00E1ticas y produce gran cantidad de biomasa, dominando \u00E1reas donde antes hab\u00EDa pastos nativos y ahogando casi todo tipo de vegetaci\u00F3n herb\u00E1cea; adem\u00E1s presenta un alto riesgo de incendios debido a que en veranos largos la parte a\u00E9rea se seca y altera el ciclo hidrol\u00F3gico en las \u00E1reas de pastoreo. Las gl\u00E1ndulas de las hojas presentan exudados irritantes para la mayor\u00EDa de los insectos, algo beneficioso para el ganado ya que reduce el n\u00FAmero de garrapatas, moscas y mosquitos",
+    "manage": "para controlar este pasto se puede hacer uso del control mec\u00E1nico que implica el corte y la eliminaci\u00F3n de los rizomas y los tallos, o usar herbicidas como el glifosato que muestra resultados eficaces. No se han reportado casos conocidos de control biol\u00F3gico",
+    "riskLevel": 2,
+    "urlImage": "https://apicolombiastorage.blob.core.windows.net/invasivespecies/49-Yaragu\u00E1.png"
+  },
+  {
+    "id": 50,
+    "name": "Yedra",
+    "scientificName": "Hedera helix L.",
+    "commonNames": "hiedra",
+    "impact": "H. helix es un invasor agresivo que amenaza a todos los niveles de vegetaci\u00F3n de zonas boscosas y abiertas, creciendo a lo largo del terreno, as\u00ED como en el dosel del bosque. Cuando forma una alfombra densa en bosques aumenta los niveles de nitr\u00F3geno del suelo, por la hojarasca, lo que suprime la regeneraci\u00F3n natural de las especies del sotobosque y del bosque",
+    "manage": "H. h\u00E9lice se puede controlar de forma manual cortando los tallos o con quema controlada la cual se ha usado con gran \u00E9xito siempre y cuando los rebrotes se vuelvan a quemar, generalmente con un soplete, hasta que esta no vuelva a brotar. Cuando sea muy complicado usar el control mec\u00E1nico se puede aplicar herbicidas aunque H. h\u00E9lice no responde exitosamente a la fumigaci\u00F3n ya que sus hojas son cerosas, lo que impiden que herbicidas especialmente hidr\u00F3filos como glifosato sean absorbidos, es por esto que cuando se aplica alg\u00FAn tipo de herbicida se recomienda desojar gran parte de la planta y realizar cortes en \u201Cv\u201D en el tallo para luego aplicar el un herbicidas sin diluir; los herbicidas metsulfur\u00F3n, picloram y glifosato han tenido \u00E9xito en Australia",
+    "riskLevel": 1,
+    "urlImage": "https://apicolombiastorage.blob.core.windows.net/invasivespecies/50-Yedra.png"
+  },
+  {
+    "id": 51,
+    "name": "Yerbabuena",
+    "scientificName": "Mentha spicata L",
+    "commonNames": "hierbabuena, s\u00EDgueme y s\u00EDgame",
+    "impact": "la Mentha spicata crece principalmente en \u00E1reas perturbadas, su densidad puede limitar el tama\u00F1o de algunas especies nativas, puede generar competencia por nutrientes y liberar sustancias alelop\u00E1ticas provenientes de sus aceites esenciales que desplazan y limitan especies propias de la zona. Esta planta atrae varios polinizadores por su olor y aceites, por lo que puede alterar las interacciones naturales entre polinizador y planta nativa, sin embargo los impactos que pueda ocasionar esta especie asociados a niveles tr\u00F3ficos est\u00E1n indocumentados.",
+    "manage": "esta especie puede ser retirada de forma manual en invasiones peque\u00F1as, debe retirarse completamente con todo el sistema radicular. Es necesario realizar mas esfuerzos en el control para los individuos que se regeneran a partir de fragmentos de rizomas. La propagaci\u00F3n vegetativa de esta especie en los jardines puede ser controlada si se siembra en recipientes de pl\u00E1stico enterrados en el suelo",
+    "riskLevel": 1,
+    "urlImage": "https://apicolombiastorage.blob.core.windows.net/invasivespecies/51-Yerbabuena.png"
+  },
+  {
+    "id": 52,
+    "name": "Carpa Com\u00FAn",
+    "scientificName": "Cyprinus carpio",
+    "commonNames": "Carpa Com\u00FAn",
+    "impact": "la carpa com\u00FAn destruye poblaciones de plantas acu\u00E1ticas y aumentar la turbidez de las aguas debido a comportamientos de excavaci\u00F3n y agitaci\u00F3n que realizan cuando es el momento del desove, como consecuencia de esto hay una disminuci\u00F3n de poblaciones de macr\u00F3fitos en la zona debido a que hay una menor entrada de luz en el agua. Adem\u00E1s de esto puede acabar con otras especies de peces nativas ya que consume huevos de otras especies, modifica los sustratos cuando va a realizar el desove y es un fuerte competidor para otras especies que tienen h\u00E1bitos alimenticios similares",
+    "manage": "el m\u00E9todo de control mec\u00E1nico incluye t\u00E9cnicas potenciales como pesca, barreras, trampas, manipulaci\u00F3n del nivel de agua, barreras el\u00E9ctricas, cortinas de burbujas y barreras s\u00F3nicas, las cuales se han utilizado en varios pa\u00EDses para excluir peces de estructuras tales como las tomas de agua de refrigeraci\u00F3n industriales. En cuanto a control, el uso generalizado de pesticidas no es posible en los h\u00E1bitats acu\u00E1ticos debido a venenos espec\u00EDficos para la carpa com\u00FAn no est\u00E1n disponibles.",
+    "riskLevel": 2,
+    "urlImage": "https://apicolombiastorage.blob.core.windows.net/invasivespecies/52-Carpa Com\u00FAn.png"
+  },
+  {
+    "id": 53,
+    "name": "Cangrejo rojo americano",
+    "scientificName": "Procambarus clarkii",
+    "commonNames": "camar\u00F3n rojo, cangrejo rojo de Louissiana, camar\u00F3n del diablo, cangrejo de r\u00EDo americano, langostilla y cangrejo rojo de las marismas",
+    "impact": "esta especie ocaciona varios impactos; su h\u00E1bito excavador ocasiona cambios f\u00EDsicos en el medio, produciendo da\u00F1os a cultivos y estructuras civiles, puede degradar orillas, causar desplazamientos, afectar cimientos de edificaciones, postes de energ\u00EDa y tuber\u00EDas de aguas servidas. Afecta el estado de conservaci\u00F3n de los h\u00E1bitats y poblaciones nativas invadidos, ya que es un consumidor voraz de invertebrados, peces, anfibios y macr\u00F3fitas; adem\u00E1s es vector del hongo Aphanomycetes astaci, el cual ha acabado poblaciones de dec\u00E1podos europeos.",
+    "manage": "posibles opciones de manejo para la especie incluyen la eliminaci\u00F3n o reducci\u00F3n de las poblaciones a trav\u00E9s de v\u00EDas mec\u00E1nicas, f\u00EDsicas, qu\u00EDmicas o m\u00E9todos de control biol\u00F3gico (ISSG 2011). Se podr\u00EDan involucrar a los pescadores en el control de las poblaciones de cangrejos aumentando la presi\u00F3n de pesca y desarrollando programas de concienciaci\u00F3n y sensibilizaci\u00F3n para evitar nuevas sueltas y translocaciones (Ministerio de Agricultura Alimentaci\u00F3n y Medio Ambiente",
+    "riskLevel": 2,
+    "urlImage": "https://apicolombiastorage.blob.core.windows.net/invasivespecies/53-Cangrejo rojo americano.png"
+  },
+  {
+    "id": 54,
+    "name": "Caracol caf\u00E9 de jard\u00EDn",
+    "scientificName": "Helix aspersa",
+    "commonNames": "caracol caf\u00E9 europeo",
+    "impact": "esta especie afecta cultivos y especies nativas a trav\u00E9s de la herbivor\u00EDa, ademas puede afectar las poblaciones de otros moluscos nativos, por competencia de recursos. Tambi\u00E9n se cree que puede ser un vector para la enfermedad que afecta los c\u00EDtricos Phytophthora citrophthora",
+    "manage": "para el control de Helix aspersa se sugiere erradicaci\u00F3n manual, colectando sus ejemplares y huevos, adem\u00E1s de crear barreras para evitar que el caracol tenga acceso al follaje, tambi\u00E9n se utilizan trampas para ahogarlos en cerveza o alcohol. Otro m\u00E9todo es el control biol\u00F3gico a trav\u00E9s de especies predadoras de este caracol, un ejemplo de ellas es Rumina decollata un caracol que ha sido bastante efectivo en lugares como California. Tambi\u00E9n se utiliza el control qu\u00EDmico como carbamatos y metaldeh\u00EDdo.",
+    "riskLevel": 0,
+    "urlImage": "https://apicolombiastorage.blob.core.windows.net/invasivespecies/54-Caracol caf\u00E9 de jard\u00EDn.png"
+  },
+  {
+    "id": 55,
+    "name": "Caracol gigante africano",
+    "scientificName": "Achatina fulica",
+    "commonNames": "Caracol gigante africano",
+    "impact": "esta especie causa da\u00F1os en los sistemas agr\u00EDcolas, ya que consume gran variedad de plantas de importancia econ\u00F3mica y nativas. A su vez son hospederos de par\u00E1sitos que causan enfermedades en humanos y animales como Angiostrongylus Cantonensis y Angiostrongylus costarricencis. Achatina fulica desplaza y reduce las poblaciones de moluscos nativos debido a la competencia",
+    "manage": " Para esta especie el m\u00E9todo m\u00E1s efectivo utilizado es el control manual, que consiste en la recolecci\u00F3n de los individuos encontrados y sus huevos para despu\u00E9s destruirlos, para esto se utiliza sal com\u00FAn, ya que los deshidrata. Otra forma implementada son trampas experimentales que contienen cebo para atraerlos (SENASA 2014). Otra forma de control y erradicaci\u00F3n recomendada incluye la incineraci\u00F3n, utilizando lanza llamas. En China es utilizada como alimento para controlar su poblaci\u00F3n, pero esto a su vez puede fomentar su reproducci\u00F3n de forma deliberada. Tambi\u00E9n se han utilizado m\u00E9todos qu\u00EDmicos, pero no son recomendables ya que acaban y afectan las poblaciones de caracoles nativos y end\u00E9micos. El queroseno es otro elemento que ayuda en la erradicaci\u00F3n del caracol.",
+    "riskLevel": 2,
+    "urlImage": "https://apicolombiastorage.blob.core.windows.net/invasivespecies/55-Caracol gigante africano.png"
+  },
+  {
+    "id": 56,
+    "name": "Carpa china",
+    "scientificName": "Ctenopharyngodon idella",
+    "commonNames": "carpa herb\u00EDvora",
+    "impact": "una poblaci\u00F3n grande de C. idella causa una disminuci\u00F3n dr\u00E1stica de macrofitas, lo cual cambia las condiciones del agua ya que disminuye la cantidad de ox\u00EDgeno disuelto, aumenta los niveles de di\u00F3xido de carbono, aumenta el nitr\u00F3geno y acidifica el pH; adem\u00E1s la acumulaci\u00F3n de sus heces aumenta los niveles de nutrientes del agua, lo que finalmente conlleva al desplazamiento de especies acu\u00E1ticas nativas.",
+    "manage": "las poblaciones de peces que se quieran cultivar se deben mantener en lugares donde sea imposible escapar y se deben mantener densidades bajas ya que la carpa herb\u00EDvora salta barreras f\u00E1cilmente, emigra y es capaz de recorrer las largas distancias y establecer poblaciones potencialmente da\u00F1inas.",
+    "riskLevel": 2,
+    "urlImage": "https://apicolombiastorage.blob.core.windows.net/invasivespecies/56-Carpa china.png"
+  },
+  {
+    "id": 57,
+    "name": "Carpa dorada",
+    "scientificName": "Carassius auratus",
+    "commonNames": "bailarina telescopio y goldfish calico",
+    "impact": " el paso de cianobacterias a trav\u00E9s del intestino y el m\u00E9todo de alimentaci\u00F3n de la carpa dorada estimula el crecimiento de cianobacterias y la re-suspensi\u00F3n de nutrientes en el agua lo que genera un aumento en la proliferaci\u00F3n de algas. Adem\u00E1s se sabe que estos peces se aprovechan de los huevos, larvas y adultos de peces nativos, aumentan la turbidez del agua y agotan la vegetaci\u00F3n acu\u00E1tica",
+    "manage": "Morgan & Beatty (2004), proponen una pesca intensiva de la especie C. auratus con pesca el\u00E9ctrica y manual (redes de enmalle). manera de prevenci\u00F3n Hewitt et al. (2006) realiz\u00F3 un documento sobre el uso responsable de especies ex\u00F3ticas en la acuicultura, el cual tiene como objetivo proporcionar experiencias que otros pa\u00EDses tuvieron con el uso de especies ex\u00F3ticas en la acuicultura (Australia, Nueva Zelanda y Chile) y mostrar recomendaciones para que las personas responsables de la regulaci\u00F3n internacional y regional del uso de especies ex\u00F3ticas en la acuicultura los consideren en el momento de tomar decisiones",
+    "riskLevel": 2,
+    "urlImage": "https://apicolombiastorage.blob.core.windows.net/invasivespecies/57-Carpa dorada.png"
+  },
+  {
+    "id": 58,
+    "name": "Garza bueyera",
+    "scientificName": "Bubulcus ibis",
+    "commonNames": "garza ganadera y garza vaquera",
+    "impact": "no parece haber competencia por alimento con otras garzas pero si se reporta competencia con otras garzas por sitios de anidaci\u00F3n y material para la construcci\u00F3n de nidos. Adem\u00E1s tolera condiciones de sequ\u00EDa que otras garzas no, por lo que puede aumentar su poblaci\u00F3n en estas condiciones clim\u00E1ticas. Compite con otras especies de animales que se alimentan de invertebrados terrestres. Probable portadora y transmisora de enfermedades",
+    "manage": "La mejor manera para prevenir el establecimiento de B. ibis es a trav\u00E9s de la conciencia p\u00FAblica y la detecci\u00F3n temprana, ya que si se detectan temprano las aves est\u00E1n nerviosas y se pueden espantar f\u00E1cilmente con m\u00E9todos como espantap\u00E1jaros, pirotecnia, tiros de escopeta calibre 12, serpentinas, siluetas de b\u00FAhos u otros m\u00E9todos que sirvan para asustar; si se pueden combinar los m\u00E9todos resulta mucho mejor, ya que de esta manera las aves no se acostumbran a ellos.",
+    "riskLevel": 2,
+    "urlImage": "https://apicolombiastorage.blob.core.windows.net/invasivespecies/58-Garza bueyera.png"
+  },
+  {
+    "id": 59,
+    "name": "Geko casero",
+    "scientificName": "Hemidactylus frenatus",
+    "commonNames": "Geko casero",
+    "impact": "se ha demostrado que H. Frenatus desplaza competitivamente a los gekos de tama\u00F1o similar siendo muy probable que desplace individuos de especies nativas ya que esta especie se adapta muy bien a la depredaci\u00F3n de insectos que se re\u00FAnen cerca de la iluminaci\u00F3n artificial y tienden a ser m\u00E1s agresivos y territoriales as\u00ED como m\u00E1s tolerantes a la convivencia y la competencia interespec\u00EDfica de gekos end\u00E9micos. Hay muchos registros de H. frenatus los cuales indican que esta especie son los causantes de la disminuci\u00F3n de poblaciones de gekos nativos, por ejemplo en las Islas Mascare\u00F1as desplaz\u00F3 el geko end\u00E9mico y vulnerable (VU) Nactus durrelli o en las islas del Pac\u00EDfico se le ha considerado responsable de disminuir poblacional de los gekos Lepidodactylus lugubris y Hemidactylus garnotti, en los dos casos por la gran similitud de su comportamiento.",
+    "manage": "en las islas Mascare\u00F1as se realiz\u00F3 una modificaci\u00F3n del h\u00E1bitat como m\u00E9todo de exclusi\u00F3n, mediante la eliminaci\u00F3n de posibles refugios del geko H. frenatus y la adici\u00F3n de refugios artificiales los cuales se han propuesto como un medio para mejorar las poblaciones de especies en peligro o reptiles nativos desplazados. Tambi\u00E9n se ha probado un m\u00E9todo de eutanasia qu\u00EDmico conforme con las condiciones especificadas por la pol\u00EDtica de servicio de Salud P\u00FAblica en Cuidado Humano y Uso de Animales de Laboratorio, el cual consiste en inyectar de 250 - 500 mg/kg al 0,7% de trica\u00EDna metanosulfonato (MS222) tamponada con bicarbonato de sodio 1% en la cavidad intracelomica de H. frenatus, seguido por otra inyecci\u00F3n en la cavidad intracoelomica de 0,1 - 1,0 ml no tamponada 50% (v/v) de soluci\u00F3n MS222",
+    "riskLevel": 1,
+    "urlImage": "https://apicolombiastorage.blob.core.windows.net/invasivespecies/59-Geko casero.png"
+  },
+  {
+    "id": 60,
+    "name": "Monjita tricolor",
+    "scientificName": "Lonchura malacca",
+    "commonNames": "capuchino de cabeza negra",
+    "impact": "L. malacca puede competir por alimento con otras especies de aves gran\u00EDvoras tales como: la t\u00F3rtola coquita (Columbina passerina), el color\u00EDn azulnegro (Cyanocompsa parellina), el semillero de colla o con el rascador oliv\u00E1ceo",
+    "manage": "",
+    "riskLevel": 2,
+    "urlImage": "https://apicolombiastorage.blob.core.windows.net/invasivespecies/60-Monjita tricolor.png"
+  },
+  {
+    "id": 61,
+    "name": "Paloma dom\u00E9stica",
+    "scientificName": "Columba livia",
+    "commonNames": "paloma y paloma brav\u00EDa",
+    "impact": "se reporta que esta especie ha causado perdidas hasta de 1.1 mil millones de d\u00F3lares por da\u00F1os en las zonas urbanas, ya que los excrementos de la paloma puede acelerar el deterioro de los edificios y aumentar el costo del mantenimiento de estos, adem\u00E1s aquellas poblaciones que viven cerca a los aeropuertos pueden ser una amenaza para la seguridad de las personas debido a posibles choques entre estas aves y los aviones",
+    "manage": "existen varias t\u00E9cnicas para manejar esta especie, m\u00E9todos probados como modificaci\u00F3n del h\u00E1bitat, el cual consiste en alterar los dormideros o sitios de anidaci\u00F3n y eliminar las fuentes de alimento y agua. M\u00E9todos no probados tales como bloquear el acceso a sitios de percha o aplicar qu\u00EDmicos a estas \u00E1reas que pueden ser venenos orales y de contacto. Los venenos orales requieren ser probados previamente ya que pueden afectar otras especies que no son el objetivo; los fumigos tambi\u00E9n pueden ser \u00FAtiles pero no son muy pr\u00E1cticos",
+    "riskLevel": 2,
+    "urlImage": "https://apicolombiastorage.blob.core.windows.net/invasivespecies/61-Paloma dom\u00E9stica.png"
+  },
+  {
+    "id": 62,
+    "name": "Pato de collar",
+    "scientificName": "Anas platyrhynchos",
+    "commonNames": "anade rea",
+    "impact": "A. platyrhynchos cuasa efectos gen\u00E9ticos sobre otras poblaciones de patos, por ejemplo Mooney & Cleland (2001) reportaron en Nueva Zelanda h\u00EDbridos del esta especie con el pato gris (Anas superciliosa superciliosa), el pato de Haw\u00E1i (Anas wyvilliana) y el pato moteado de Florida (Anas fulvigula fulvigula). Por otro lado, en M\u00E9xico se reporta que las aves acu\u00E1ticas, como el pato Anas platyrhynchos diazi, son portadoras de par\u00E1sitos como \u201Chelmintos\u201D que pueden afectar diferentes poblaciones de especies de aves nativas (Mercado-Reyes et al. 2010). Finalmente, grandes poblaci\u00F3n silvestre de este pato est\u00E1n asociadas con la proliferaci\u00F3n de algas, desoxigenaci\u00F3n, y la p\u00E9rdida de plantas acu\u00E1ticas en los humedales",
+    "manage": "En la Isla Lord Howe de Australia se realiz\u00F3 durante 5 d\u00EDas un programa de control mediante trampeo, disparos y captura manual oportuna. Encontrando que el m\u00E9todo de captura manual fue la medida de control m\u00E1s eficiente, pero se limita a atrapar juveniles y pollos; el trampeo fue la siguiente t\u00E9cnica m\u00E1s eficiente pero se tuvo perturbaci\u00F3n con el p\u00FAblico. Finalmente, se plantea que la erradicaci\u00F3n de esta especie es posible siempre que haya un monitoreo, y se recomienda como m\u00E9todos de control disparar o envenenar los individuos con alfacloralosa",
+    "riskLevel": 2,
+    "urlImage": "https://apicolombiastorage.blob.core.windows.net/invasivespecies/62-Pato de collar.png"
+  },
+  {
+    "id": 63,
+    "name": "Perro dom\u00E9stico",
+    "scientificName": "Canis lupus",
+    "commonNames": "Perro dom\u00E9stico",
+    "impact": "los perros son depredadores, en pa\u00EDses como Nueva Zelanda han sido considerados como un importante factor de riesgo para las poblaciones de aves, ya que seg\u00FAn un estudio del ave Kiwi se report\u00F3 que de 23 kiwi equipados con transmisores la p\u00E9rdida 13 individuos fueron depredados por un perro pastor alem\u00E1n. C. lupus podr\u00EDa desplazar competitivamente a especies de depredadores nativos, sin embargo, su efecto m\u00E1s negativo es la disminuci\u00F3n de poblaciones de presas como aves, reptiles y algunos mam\u00EDferos, sobre todo peque\u00F1os y medianos.",
+    "manage": "para controlar grandes poblaciones de perros las t\u00E9cnicas m\u00E1s usadas son: la captura, disparos, envenenamiento o poner vallas de exclusi\u00F3n, siendo el envenenamiento la t\u00E9cnica m\u00E1s rentable. Se han generado suevas t\u00E9cnicas como dispositivos de eyecci\u00F3n de veneno, collares t\u00F3xicos o usar a los perros para que cuiden el ganado",
+    "riskLevel": 2,
+    "urlImage": "https://apicolombiastorage.blob.core.windows.net/invasivespecies/63-Perro dom\u00E9stico.png"
+  },
+  {
+    "id": 64,
+    "name": "Rana toro",
+    "scientificName": "Lithobates catesbeianus",
+    "commonNames": "Rana toro",
+    "impact": "L. catesbeianus pueden albergar dep\u00F3sitos del hongo Batrachochytrium dendrobatidis sin mostrar s\u00EDntomas de la enfermedad; dicho hongo genera la enfermedad \u201Cquitridiomicosis\u201D que es responsables de la disminuci\u00F3n e incluso extinci\u00F3n de otras poblaci\u00F3n de anfibios. Por otro lado, los renacuajos de esta especie alteran la biomasa, la estructura y composici\u00F3n de las comunidades de algas, generando un impacto considerable en el ciclo de nutrientes y producci\u00F3n primaria de los ecosistemas de agua dulce",
+    "manage": "Urbina-Cardona et al. (2011), proponen un plan de monitoreo manejo y control para Colombia, donde primero se realicen monitoreos en humedales y \u00E1reas potenciales, luego se hagan ensayos de cuantificaci\u00F3n que incluya investigaci\u00F3n sobre din\u00E1mica de la poblaci\u00F3n, para finalizar con la socializaci\u00F3n y generaci\u00F3n de conciencia sobre la problem\u00E1tica entorno a la presencia de rana toro. En cuanto a medidas de acci\u00F3n temprana para reducir las poblaciones de colonizaciones tempranas proponen una extracci\u00F3n de la rana toro de sitios espec\u00EDficos y monitoreo de zonas aleda\u00F1as, as\u00ED como realizar estudios sobre posibles controladores biol\u00F3gicos en ambientes acu\u00E1ticos y terrestres",
+    "riskLevel": 2,
+    "urlImage": "https://apicolombiastorage.blob.core.windows.net/invasivespecies/64-Rana toro.png"
+  },
+  {
+    "id": 65,
+    "name": "Rata casera",
+    "scientificName": "Rattus rattus",
+    "commonNames": "rata negra ",
+    "impact": " los impactos que generan estas ratas son similares a los generados por M. musculus y R. norvegicus ya que tienen comportamientos muy similares. Est\u00E1 asociada a la transmisi\u00F3n de enfermedades y es considerada un plaaga responsable de p\u00E9rdidas de cosechas enormes a lo largo de todo el mundo. Trasmite casi las mismas enfermedades que R. norvegicus que pueden afectar otras especies de animales y seres humanos.",
+    "manage": "Sus medidas de control y manejo son similares a las usadas para M. musculus y R. norvegicus, en la isla de Gorgona (Pac\u00EDfico colombiano) y en la isla de Providencia (Caribe colombiano), tambi\u00E9n se us\u00F3 como estrategias de erradicaci\u00F3n la introducci\u00F3n de otras especies ex\u00F3ticas como gatos y perros (actualmente ausentes en la isla), lo que gener\u00F3 una disminuci\u00F3n significativa de las especies nativas de aves, reptiles y peque\u00F1os mam\u00EDferos",
+    "riskLevel": 2,
+    "urlImage": "https://apicolombiastorage.blob.core.windows.net/invasivespecies/65-Rata casera.png"
+  },
+  {
+    "id": 66,
+    "name": "Rata noruega",
+    "scientificName": "Rattus norvegicus",
+    "commonNames": "rata caf\u00E8",
+    "impact": "es conocida en gran parte del mundo por sus efectos destructivos y como amenaza de la salud de las personas, animales dom\u00E9sticos y vida silvestre. Algunas de las enfermedades que transmite esta especie son: plaga bub\u00F3nica, tifoidea, salmonelosis, leptospirosis, triquinosis, tularemia y fiebre de mordida de rata. Nowak (1991) reporta cuarenta enfermedades transmitidas por ratas, incluyendo esquistosomiasis, y se cree que las enfermedades transmitidas por estas ratas han dejado m\u00E1s muertos en los \u00FAltimos 10 siglos que todas las guerras y revoluciones de las que se tiene conocimiento.",
+    "manage": "Las trampas son usadas generalmente a escala local, pero por lo general no se pueden eliminar todos los individuos. Por esto lo m\u00E1s com\u00FAn es el uso de venenos anticoagulantes, existen islas donde se ha logrado erradicar esta especie mediante el uso de estos venenos, aunque se requiere una estricta cuarentena para evitar una propagaci\u00F3n. El veneno Brodifacoum fue le mas usado en una de estas islas, pero estudios indican que esta sustancia puede dejar residuos persistentes en la fauna no objetivo. En cuanto a un control biol\u00F3gico, se est\u00E1n realizando estudios sobre m\u00E9todos de control anticonceptivos, los cuales son prometedores",
+    "riskLevel": 2,
+    "urlImage": "https://apicolombiastorage.blob.core.windows.net/invasivespecies/66-Rata noruega.png"
+  },
+  {
+    "id": 67,
+    "name": "Rat\u00F3n casero",
+    "scientificName": "Mus musculus",
+    "commonNames": "Rat\u00F3n casero",
+    "impact": "los ratones son las principales plagas econ\u00F3micas ya que son grandes consumidores de cultivos y alimentos para los humano, adem\u00E1s y son huesped de una serie de enfermedades y par\u00E1sitos que infectan al ser humano, las pestes m\u00E1s graves son la peste bub\u00F3nica (Yersinia pestis) y Salmonella (Salmonella spp.). Sin embargo, los ratones se consideran relativamente como vectores poco importantes para trasmitir enfermedades a los seres humanos. Adem\u00E1s son una amenaza para las especies que ponen sus huevos en la tierra ya que los ratones se los comen con gran facilidad",
+    "manage": "los ratones generalmente son controlados por envenenamiento, fumigaci\u00F3n, trampeo y repelentes, pero 38% de los intentos de erradicaci\u00F3n en las islas de todo el mundo han fracasado (17 de 45 intentos), no parece haber una explicaci\u00F3n sencilla operativa consistente para estas fallas. Sin embargo se han erradicado con \u00E9xito de 28 islas de todo el mundo, en todos estos casos se utiliz\u00F3 alguna forma de veneno anticoagulante, de los cuales Brodifacoum fue el veneno m\u00E1s usado, este es una toxina ampliamente usada pero hay algunas preocupaciones sobre su acumulaci\u00F3n en los ecosistemas.",
+    "riskLevel": 2,
+    "urlImage": "https://apicolombiastorage.blob.core.windows.net/invasivespecies/67-Rat\u00F3n casero.png"
+  },
+  {
+    "id": 69,
+    "name": "Trucha arco\u00EDris",
+    "scientificName": "Oncorhynchus mykiss",
+    "commonNames": "Trucha arco\u00EDris",
+    "impact": "los impactos incluyen la hibridaci\u00F3n, transmisi\u00F3n de enfermedades, la depredaci\u00F3n y la competencia con las especies nativas. Por ejemplo en Estados Unidos, la introducci\u00F3n de la trucha arco iris en \u00E1reas fuera de su \u00E1rea de distribuci\u00F3n natural ha causado problemas debido a su capacidad de hibridar con las especies de salm\u00F3nidos nativos. Por otro lado, all\u00ED mismo se report\u00F3 que la salida de la trucha arco\u00EDris de los criaderos al medio natural caus\u00F3 brotes de la enfermedad originada por el protozoo Myxobolus cerebralis en las especies silvestres, dicha enfermedad causa una disfunci\u00F3n del sistema nervioso de los salm\u00F3nidos, y puede generar una curvatura de la columna vertebral, lo que impide que los peces mantengan una orientaci\u00F3n apropiada y comiencen a nadar en espiral",
+    "manage": "teniendo en cuenta los impactos que trae la introducci\u00F3n de especies ex\u00F3ticas para la acuicultura es importante que cualquier gobierno nacional considere el uso de nuevas especies ex\u00F3ticas para la acuicultura y realice esfuerzos para asegurar que cuando esto se llevare a cabo se haga de una manera responsable solo cuando sea necesario, ya que la precauci\u00F3n debe ser la base para el desarrollo de cualquier estrategia de manejo (Hewitt et al. 2006). Si O. mykiss ya se encuentra introducida y esta comenzando a causar impactos en los ecosistemas se puede aplicar el antibi\u00F3tico antimicina, el cual en el parque nacional \u201CGreat Smoky Mountains\u201D de Estados unidos se us\u00F3 para matar la trucha arco iris en un esfuerzo por proteger la trucha de arroyo nativa",
+    "riskLevel": 2,
+    "urlImage": "https://apicolombiastorage.blob.core.windows.net/invasivespecies/69-Trucha arco\u00EDris.png"
+  },
+  {
+    "id": 70,
+    "name": "Trucha com\u00FAn",
+    "scientificName": "Salmo trutta",
+    "commonNames": "trucha europea",
+    "impact": "en pa\u00EDses como Estados Unidos se han realizado estudios donde comprueban que la trucha com\u00FAn afecta significativamente la b\u00FAsqueda de alimento, el comportamiento social y la selecci\u00F3n del mesohabitat de varias de sus especies nativas (Wengeler et al. 2010, Elkins & Grossman 2014). En Colombia se dice que los salm\u00F3nidos introducidos hace m\u00E1s de 30 a\u00F1os disminuyeron las poblaciones nativas andinas antes de conocerlas y contin\u00FAan haci\u00E9ndolo con las pocas que quedan, debido principalmente a los h\u00E1bitos alimenticios de S. trutta (Guti\u00E9rrez et al. 2010). Sin embargo esta es una especie con mucho \u00E9xito en la industria pesquera, lo que favorece la econom\u00EDa de los pescadores",
+    "manage": "Kawai et al. (2013), reportan que el \u00E9xito del establecimiento de la trucha com\u00FAn podr\u00EDa ser inversamente proporcional con factores abi\u00F3ticos como la variabilidad del flujo durante el deshielo inundaci\u00F3n, lo que podr\u00EDa dar indicios de que cambios en las temperaturas del agua podr\u00EDan ayudar a controlar esta especie",
+    "riskLevel": 2,
+    "urlImage": "https://apicolombiastorage.blob.core.windows.net/invasivespecies/70-Trucha com\u00FAn.png"
+  },
+  {
+    "id": 71,
+    "name": "Hipop\u00F3tamo",
+    "scientificName": "Hippopotamus amphibius",
+    "commonNames": "hipop\u00F3tamo",
+    "impact": "El hipop\u00F3tamo com\u00FAn es nativo de \u00C1frica subsahariana, donde habita una amplia gama de ecosistemas de humedales y sabanas adyacentes a r\u00EDos. Pasa el d\u00EDa refugiado en el agua y emerge en la noche a pastizales aleda\u00F1os para alimentarse de plantas.La especie ha sido introducida en diferentes pa\u00EDses en condiciones de cautiverio, principalmente a zool\u00F3gicos. En Colombia fueron introducidas tres parejas como parte de la colecci\u00F3n privada del propietario de la Hacienda N\u00E1poles (Puerto Triunfo, Doradal, Antioquia) en 1985, de donde escaparon de su confinamiento, dispers\u00E1ndose a lo largo del Magdalena Medio por su propia cuenta. El potencial invasor de Hipopotamus amphibius est\u00E1 dado principalmente por su capacidad de persistir en condiciones adversas, como por ejemplo las sequ\u00EDas, en su \u00E1rea de distribuci\u00F3n nativa. El hipop\u00F3tamo es una especie longeva, vive alrededor de 40 a\u00F1os en estado silvestre y hasta 50 a\u00F1os en cautividad, alcanzando su madurez sexual a los siete a\u00F1os en el caso de los machos y cinco en las hembras. Su gran tama\u00F1o, su alto consumo de vegetaci\u00F3n y la ausencia de depredadores naturales no solo dificultan su manejo y control, sino que le brindan el potencial para alterar las condiciones fisicoqu\u00EDmicas y biol\u00F3gicas del medio (es decir, compactaci\u00F3n del suelo, cambio en las din\u00E1micas de aguas l\u00E9nticas y l\u00F3ticas por apertura de canales entre el cauce principal del r\u00EDo y las ci\u00E9nagas, y eutrofizaci\u00F3n de cuerpos de agua por el gran aporte org\u00E1nico que representan sus excrementos), as\u00ED como el desplazamiento de especies nativas por competencia y transformaci\u00F3n del h\u00E1bitat",
+    "manage": "",
+    "riskLevel": 2,
+    "urlImage": "https://apicolombiastorage.blob.core.windows.net/invasivespecies/71-hipopotamo.jpg"
+  },
+  {
+    "id": 72,
+    "name": "Pez Le\u00F3n",
+    "scientificName": "Pterois antennata",
+    "commonNames": "Pez Le\u00F3n, pez escorpion",
+    "impact": "El pez le\u00F3n Pterois volitans pertenece a la familia Scorpaenidae, que incluye especies conocidas como rascacios o peces roca. Es un pez ornamental nativo del Indo-Pac\u00EDfico El pez le\u00F3n se alimenta principalmente de peces, aunque tambi\u00E9n consume algunos crust\u00E1ceos como juveniles de la langosta espinosa, Panulirus argus , especie de importancia comercial. En t\u00E9rminos generales, el pez le\u00F3n como especie invasora, altera la estructura y composici\u00F3n de las comunidades biol\u00F3gicas de los ecosistemas arrecifales, al competir con las especies nativas por alimento y espacio, modificando la red tr\u00F3fica, desplazando las especies nativas de sus h\u00E1bitats naturales e incluso  extingui\u00E9ndolas, causando as\u00ED disminuci\u00F3n de la biodiversidad y alteraciones ecosist\u00E9micas irreversibles. De acuerdo con los expertos, son dos los peligros que se enfrentan por la proliferaci\u00F3n de esta especie: uno, es una amenaza para el hombre quien puede sufrir accidentes al pisar o tocar sus nocivas p\u00FAas venenosas y otro, se constituye en una amenaza para las especies nativas, dado que se alimenta de peces j\u00F3venes que sirven de alimento para el hombre, como el pargo, el mero y la langosta. Tambi\u00E9n consume larvas de peces que son vitales para la ecolog\u00EDa de los arrecifes coralinos, como los peces loro y los cirujanos",
+    "manage": "La extracci\u00F3n de individuos de pez le\u00F3n puede llevarse a cabo con diferentes m\u00E9todos que van desde el empleo de bolsas pl\u00E1sticas transparentes, mallas, nasas, la cl\u00E1sica red de \u201Ctoldillo\u201D, ganchos (fabricados con un anzuelo grande, atado a un soporte), arpones, y lanzas Hawaiianas (\u201Chawaiian slings\u201D), entre otros. Actualmente se ha contado con la participaci\u00F3n de instituciones, escuelas de buceo, ONG, pescadores artesanales y representantes de las comunidades locales de las zonas con presencia de la especie para la extraci\u00F3n y eliminaci\u00F3n de esta especie.",
+    "riskLevel": 2,
+    "urlImage": "https://apicolombiastorage.blob.core.windows.net/invasivespecies/72-Pez Leon.jpg"
+  }
+]
