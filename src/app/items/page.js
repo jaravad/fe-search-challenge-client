@@ -12,10 +12,11 @@ import {
 import Grid from '@mui/material/Unstable_Grid2'
 
 import Item from '../../components/Item'
+import SearchBar from '@/components/SearchBar'
 
 export default function Items() {
   const [items, setItems] = useState(null)
-  const [loading, setLoading] = useState(false)
+  const [loading, setLoading] = useState(true)
   const { replace } = useRouter()
 
   const searchParams = useSearchParams()
@@ -46,11 +47,12 @@ export default function Items() {
       <Typography component="h1" variant="h4" sx={{ mb: 2 }} align="center">
         Especies invasoras de Colombia 🇨🇴
       </Typography>
-
-      <Typography component="h6" variant="body1" sx={{ mb: 2 }} align="left">
-        Resultados de busqueda para '{query}'
-      </Typography>
-
+      <SearchBar disabledButton={loading} />
+      {Boolean(items && items.length) && (
+        <Typography component="h6" variant="body1" sx={{ mb: 2 }} align="left">
+          Resultados de busqueda para '{query}'
+        </Typography>
+      )}
       {loading ? (
         <Box sx={{ display: 'flex', justifyContent: 'center' }}>
           <CircularProgress />
