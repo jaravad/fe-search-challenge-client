@@ -1,39 +1,65 @@
 'use client'
-import { useSearchParams, useRouter } from 'next/navigation'
-import { useState, useEffect } from 'react'
-import { Box, Container, Typography, CircularProgress } from '@mui/material'
+import { useSearchParams } from 'next/navigation'
+import { useState, useEffect, useRef } from 'react'
+import {
+  Box,
+  Container,
+  Typography,
+  CircularProgress,
+  Button,
+} from '@mui/material'
 import Grid from '@mui/material/Unstable_Grid2'
 
 import Item from '../../components/Item'
 import SearchBar from '@/components/SearchBar'
 
 export default function Items() {
+  const PAGE_COUNT = 6
   const [items, setItems] = useState(null)
   const [loading, setLoading] = useState(true)
-  const { replace } = useRouter()
+  const [offset, setOffset] = useState(0)
+  const [totalItems, setTotalItems] = useState(0)
 
   const searchParams = useSearchParams()
 
   const query = searchParams.get('q')
 
-  useEffect(() => {
-    const fetchData = async () => {
-      setLoading(true)
-      const results = await fetch(
-        query === null
-          ? `${process.env.NEXT_PUBLIC_API_URL}api/items?`
-          : `${process.env.NEXT_PUBLIC_API_URL}api/items?q=${query}`
-      )
-      const items = await results.json()
-      setItems(items)
-      setLoading(false)
+  const fetchItems = async (offset, limit) => {
+    const skip = offset * PAGE_COUNT
+    setLoading(true)
+    let fetchUrl
+    if (query === null) {
+      fetchUrl = `${process.env.NEXT_PUBLIC_API_URL}api/items?skip=${skip}&limit=${limit}`
+    } else {
+      fetchUrl = `${process.env.NEXT_PUBLIC_API_URL}api/items?q=${query}&skip=${skip}&limit=${limit}`
     }
-    fetchData()
-  }, [query])
+    const results = await fetch(fetchUrl)
+    const data = await results.json()
+    setLoading(false)
+    return data
+  }
+
+  const loadMoreItems = async (offset) => {
+    const { items: newItems, itemsCount } = await fetchItems(offset, PAGE_COUNT)
+    setTotalItems(itemsCount)
+    setItems((prevItems) => {
+      if (!prevItems) {
+        return [...newItems]
+      }
+      return [...prevItems, ...newItems]
+    })
+    setOffset((prev) => prev + 1)
+  }
+
+  useEffect(() => {
+    if (!items) {
+      loadMoreItems(offset)
+    }
+  }, [items])
 
   return (
     <Container maxWidth="md" sx={{ pt: 4, pb: 6 }}>
-      <Typography component="h1" variant="h4" sx={{ mb: 2 }} align="center">
+      <Typography component="h1" variant="h5" sx={{ mb: 2 }} align="center">
         Especies invasoras de Colombia 🇨🇴
       </Typography>
       <SearchBar disabledButton={loading} />
@@ -42,11 +68,7 @@ export default function Items() {
           Resultados de busqueda para '{query}'
         </Typography>
       )}
-      {loading ? (
-        <Box sx={{ display: 'flex', justifyContent: 'center' }}>
-          <CircularProgress />
-        </Box>
-      ) : !items ? null : items.length ? (
+      {!items ? null : items.length ? (
         <Grid container spacing={2}>
           {items.map((item) => {
             return (
@@ -62,10 +84,23 @@ export default function Items() {
           })}
         </Grid>
       ) : (
-        <Typography component="h2" variant="h5">
+        <Typography component="h2" variant="subtitle1">
           No se encontraron especies
         </Typography>
       )}
+      <Box mt={3} display="flex" justifyContent="center">
+        {loading ? (
+          <CircularProgress />
+        ) : Boolean(items && items.length < totalItems) ? (
+          <Button onClick={() => loadMoreItems(offset)}>Cargar mas</Button>
+        ) : (
+          Boolean(items && items.length) && (
+            <Typography variant="caption" align="center">
+              Has llegado al final
+            </Typography>
+          )
+        )}
+      </Box>
     </Container>
   )
 }
