@@ -4,8 +4,10 @@ import CardContent from '@mui/material/CardContent'
 import CardMedia from '@mui/material/CardMedia'
 import Button from '@mui/material/Button'
 import Typography from '@mui/material/Typography'
+import { useRouter } from 'next/navigation'
 
-const Item = ({ name, image, impact }) => {
+const Item = ({ name, image, impact, index }) => {
+  const { push } = useRouter()
   return (
     <Card>
       <CardMedia sx={{ height: 130 }} image={image} title="A happy cat" />
@@ -27,7 +29,14 @@ const Item = ({ name, image, impact }) => {
         </Typography>
       </CardContent>
       <CardActions>
-        <Button size="small">Saber mas</Button>
+        <Button
+          size="small"
+          onClick={() => {
+            push(`/items/${index}`)
+          }}
+        >
+          Saber mas
+        </Button>
       </CardActions>
     </Card>
   )

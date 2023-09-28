@@ -1,14 +1,7 @@
 'use client'
 import { useSearchParams, useRouter } from 'next/navigation'
 import { useState, useEffect } from 'react'
-import {
-  Box,
-  Button,
-  Container,
-  TextField,
-  Typography,
-  CircularProgress,
-} from '@mui/material'
+import { Box, Container, Typography, CircularProgress } from '@mui/material'
 import Grid from '@mui/material/Unstable_Grid2'
 
 import Item from '../../components/Item'
@@ -23,23 +16,19 @@ export default function Items() {
 
   const query = searchParams.get('q')
 
-  if (query === null) {
-    return replace('/')
-  }
-
   useEffect(() => {
     const fetchData = async () => {
       setLoading(true)
       const results = await fetch(
-        `${process.env.NEXT_PUBLIC_API_URL}api/items?q=${query}`
+        query === null
+          ? `${process.env.NEXT_PUBLIC_API_URL}api/items?`
+          : `${process.env.NEXT_PUBLIC_API_URL}api/items?q=${query}`
       )
       const items = await results.json()
       setItems(items)
       setLoading(false)
     }
-    if (query !== null) {
-      fetchData()
-    }
+    fetchData()
   }, [query])
 
   return (
@@ -48,7 +37,7 @@ export default function Items() {
         Especies invasoras de Colombia 🇨🇴
       </Typography>
       <SearchBar disabledButton={loading} />
-      {Boolean(items && items.length) && (
+      {Boolean(items && items.length && query !== null) && (
         <Typography component="h6" variant="body1" sx={{ mb: 2 }} align="left">
           Resultados de busqueda para '{query}'
         </Typography>
@@ -61,11 +50,12 @@ export default function Items() {
         <Grid container spacing={2}>
           {items.map((item) => {
             return (
-              <Grid xs={12} sm={6} md={4} key={item.id}>
+              <Grid xs={12} sm={6} md={4} key={item._id}>
                 <Item
                   name={item.name}
                   image={item.urlImage}
                   impact={item.impact}
+                  index={item.index}
                 />
               </Grid>
             )
